@@ -1,12 +1,12 @@
 {
   "job": "nspa",
-  "fetched_at": "2026-10-12T14:22:21+00:00",
+  "fetched_at": "2026-10-12T16:01:09+00:00",
   "source": "https://nspa-nato.career.emply.com/vacancies",
   "sections_found": "discovered",
   "counts": {
     "open": 57,
     "internal": 0,
-    "closed": 81
+    "closed": 80
   },
   "open_count": 38,
   "open": [
@@ -1888,28 +1888,6 @@
       "publication_type": "Status of closed vacancies",
       "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/e8465ecd-07a7-4987-9089-e894145ba865/content",
       "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION - (See link to the full job description in the blue box)\n- Secondary education and 4 years' post-related experience. Acceptable alternatives: Bachelor’s level qualification from a nationally recognised/certified University in a related discipline (e.g. Law, Economics, Business Administration, Supply Chain Management) and one year’s experience OR Master’s level qualification from a nationally recognised/certified University in a related discipline (e.g. Law, Economics, Business Administration, Supply Chain Management) with no experience.\n- Ability to work with minimum supervision and under pressure.\n- Sound digital literacy with experience in using office automation systems and software applications, e.g. Microsoft Office Suite (Word, Excel, and PowerPoint).\n- NATO's official languages are English and French. The work of this post requires fluency in English, while working knowledge of French is desirable.\nWHAT DO WE OFFER?\n- Multicultural environment\n- Initial three year contract with competitive monthly tax-free salary (subject to Article 19 of the Ottawa agreement on exemption of Taxation)\n- Additional benefits for expatriate staff including expatriation and education allowances (where applicable) and additional home leave\n- Excellent health coverage\n- Great work/life balance\n- Generous annual leave of 6 weeks plus official holidays\n- Pension Scheme\nPOST DETAILS\n- Basic monthly salary: EUR 5 541.41, tax f"
-    },
-    {
-      "section": "closed",
-      "title": "PP262, PP116: Senior Clerk, Junior Buyer",
-      "location": "52511, Geilenkirchen, Germany",
-      "deadline": "2026-07-15T22:59:00Z",
-      "deadline_text": "15 July 2026",
-      "published": "2026-06-18T13:09:04.4359252Z",
-      "url": "https://nspa-nato.career.emply.com/ad/pp262-pp116-senior-clerk-junior-buyer/xmckc6",
-      "id": "7efba572-9ec2-46e0-95d8-c63018e5e485",
-      "deadline_parsed_from_text": true,
-      "ref": "PP262, PP116",
-      "ref_no": "2026_00283, 2026_00492",
-      "grade": "NATO grade 08:B3,10:B4",
-      "category": "Procurement and Purchasing",
-      "duty_location": "Germany - Geilenkirchen",
-      "status": "Candidates evaluation ongoing",
-      "who_can_apply": "NATO Civilian Staff and external candidates who are nationals of a NATO member country are invited to apply.",
-      "min_education": "Full secondary school",
-      "publication_type": "Status of closed vacancies",
-      "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/ad6802e5-4ce2-4761-befb-0495d3e69b02/content",
-      "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION (See link to the full job description in the blue box)\n- Secondary education and 3 years' post-related experience. Acceptable alternative: post-secondary (minimum Bachelor’s level) qualification from a nationally recognised/certified University in a related discipline (e.g. Law, Economics, Business Administration, Supply Chain Management) with no experience.\n- Secondary education and 4 years' post-related experience. Acceptable alternatives: Bachelor’s level qualification from a nationally recognised/certified University in a related discipline (e.g. Law, Economics, Business Administration, Supply Chain Management) and one year’s experience OR Master’s level qualification from a nationally recognised/certified University in a related discipline (e.g. Law, Economics, Business Administration, Supply Chain Management) with no experience.\n- Ability to work with minimum supervision and under pressure.\nWHAT DO WE OFFER?\n- Multicultural environment\n- Initial three year contract with competitive monthly tax-free salary (subject to Article 19 of the Ottawa agreement on exemption of Taxation)\n- Additional benefits for expatriate staff including expatriation and education allowances (where applicable) and additional home leave\n- Excellent health coverage\n- Great work/life balance\n- Generous annual leave of 6 weeks plus official holidays\n- Pension Scheme\nPOST DETAILS\n- Basic monthly salary B3: EUR 4 668.56 tax free - b"
     },
     {
       "section": "closed",

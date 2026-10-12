@@ -1,17 +1,32 @@
 {
   "nspa": {
     "ok": true,
-    "last_success": "2026-10-12T14:22:21+00:00",
+    "last_success": "2026-10-12T16:01:09+00:00",
     "file": "nspa.json"
   },
   "eu": {
     "ok": true,
-    "last_success": "2026-10-12T14:22:19+00:00",
+    "last_success": "2026-10-12T16:01:08+00:00",
     "file": "eu.json"
   },
   "nexova": {
     "ok": true,
-    "last_success": "2026-10-12T14:22:20+00:00",
+    "last_success": "2026-10-12T16:01:09+00:00",
     "file": "nexova.json"
+  },
+  "eib": {
+    "ok": true,
+    "last_success": "2026-10-12T16:01:05+00:00",
+    "file": "eib.json"
+  },
+  "esa": {
+    "ok": true,
+    "last_success": "2026-10-12T16:01:07+00:00",
+    "file": "esa.json"
+  },
+  "ses": {
+    "ok": true,
+    "last_success": "2026-10-12T16:01:26+00:00",
+    "file": "ses.json"
   }
 }
