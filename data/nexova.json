@@ -1,0 +1,18 @@
+{
+  "job": "nexova",
+  "fetched_at": "2026-10-12T14:22:20+00:00",
+  "source": "https://www.nexovagroup.eu/en/job-vacancies",
+  "employer": "Nexova (ex-RHEA) — Libin/Transinne/Redu",
+  "open_count": 1,
+  "open": [
+    {
+      "title": "Security Engineer Expert",
+      "url": "https://www.nexovagroup.eu/en/jobs/2026-04-security-engineer-expert",
+      "location": "Redu, Belgium",
+      "contract": "Permanent",
+      "deadline": "2026-10-19T12:00:00Z",
+      "summary": "Are you looking for a new opportunity to build a safer digital future? A job where you can contribute to strengthen cyber resilience across Europe? Join us as a Security Engineer Expert. This position will be based in Redu, Belgium, and will be part of the Nexova engineering team working on C-SOC system for the European Space Agency’s (ESA). You will have the opportunity to work in a challenging environment with state-of-the-art technologies within the cyber-security and space domains. As a Security Engineer Expert, you will be involved in the design, development, improvement and management of our advanced cyber-security services, as well as in the delivery of complex cyber-security solutions. If you have a passion or interest for cybersecurity infrastructure and would like to join a team of seasoned experts with diverse backgrounds, then you are in the right place! Tasks and Activities The scope of work will include: Monitoring and managing project execution to ensure timely delivery, scope adherence, and consistent operational quality. Contributing to the continuous improvement of system performance, operational efficiency, and service delivery processes. Deploying, maintaining, and operating up to classified systems in line with security, operational, and documentation standards. Administering and supporting infrastructure components ranging from bare‑metal to applications, including network, virtualisation, cloud, storage, and backup systems. Fostering cross‑team collaboration to align operations with strategic objectives and service delivery goals. Skills and Experience The following skills and experience are mandatory: University degree or equivalent experience in computer science, engineering, IT, or a related field. Proven senior‑level experience in systems administration/engineering or network security, preferably in an international context. Experience in complex systems engineering, including security architecture design, certification and validation, cyber risk analysis, and IT/OT security. Hands‑on experience with scripting and automation using Ansible, Bash, Python, and PowerShell. Strong background in PKI, certificate lifecycle management, and IAM/PAM. Excellent capability in managing Unix/Linux‑based systems and virtualisation environments. Capacity to read, understand and troubleshoot complex network infrastructures. Strong knowledge of cybersecurity operations, including CTI, information security policies, and IT/OT security. Good compreh"
+    }
+  ],
+  "other": []
+}
