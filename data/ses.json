@@ -1,6 +1,6 @@
 {
   "job": "ses",
-  "fetched_at": "2026-10-12T16:01:26+00:00",
+  "fetched_at": "2026-10-13T04:10:15+00:00",
   "source": "https://careers.ses.com/search/?locationsearch=Betzdorf",
   "employer": "SES / LuxGovSat (Betzdorf)",
   "source_status": {
@@ -17,6 +17,76 @@
   "open_count": 74,
   "govsat_count": 0,
   "open": [
+    {
+      "title": "(Senior) Engineer, Embedded Software, meoSphere 1",
+      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Embedded-Software%2C-meoSphere-1/1396148533/",
+      "location": "Betzdorf, LU",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "(Senior) Customer Account Manager",
+      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Customer-Account-Manager/1436559733/",
+      "location": "Betzdorf, LU",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Senior Engineer, Resource Optimization & Algorithm, IRIS2",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-Resource-Optimization-&-Algorithm%2C-IRIS2/1406569733/",
+      "location": "Munich (Unterföhring), DE +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "(Senior) Engineer, Software IVV Test & Integration, IRIS2",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-%28Senior%29-Engineer%2C-Software-IVV-Test-&-Integration%2C-IRIS2/1406560133/",
+      "location": "Munich (Unterföhring), DE +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Senior Engineer, Network Orchestration Lead, IRIS2",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-Network-Orchestration-Lead%2C-IRIS2/1406568133/",
+      "location": "Munich (Unterföhring), DE +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Senior MCC Engineer, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-MCC-Engineer%2C-IRIS2/1406565233/",
+      "location": "Betzdorf, LU +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Senior Architect, Cyber Security IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Architect%2C-Cyber-Security-IRIS2/1436542033/",
+      "location": "Betzdorf, LU",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
     {
       "title": "(Senior) Satcom System Engineer (5G NTN), IRIS2",
       "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Satcom-System-Engineer-%285G-NTN%29%2C-IRIS2/1366287433/",
@@ -685,76 +755,6 @@
       "closing_text": null,
       "deadline": null,
       "posted": "2026-09-15T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "Senior MCC Engineer, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-MCC-Engineer%2C-IRIS2/1406565233/",
-      "location": "Betzdorf, LU +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-09-14T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "(Senior) Engineer, Software IVV Test & Integration, IRIS2",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-%28Senior%29-Engineer%2C-Software-IVV-Test-&-Integration%2C-IRIS2/1406560133/",
-      "location": "Munich (Unterföhring), DE +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-09-14T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "Senior Engineer, Resource Optimization & Algorithm, IRIS2",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-Resource-Optimization-&-Algorithm%2C-IRIS2/1406569733/",
-      "location": "Munich (Unterföhring), DE +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-09-14T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "Senior Engineer, Network Orchestration Lead, IRIS2",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-Network-Orchestration-Lead%2C-IRIS2/1406568133/",
-      "location": "Munich (Unterföhring), DE +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-09-14T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "(Senior) Engineer, Embedded Software, meoSphere 1",
-      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Embedded-Software%2C-meoSphere-1/1396148533/",
-      "location": "Betzdorf, LU",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-09-14T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "(Senior) Customer Account Manager",
-      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Customer-Account-Manager/1436559733/",
-      "location": "Betzdorf, LU",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-09-14T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "Senior Architect, Cyber Security IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Architect%2C-Cyber-Security-IRIS2/1436542033/",
-      "location": "Betzdorf, LU",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-09-14T22:59:00Z",
       "govsat": false
     }
   ]

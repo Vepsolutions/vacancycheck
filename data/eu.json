@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-10-12T16:01:08+00:00",
+  "fetched_at": "2026-10-13T04:10:04+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_now": "https://eu-now.com/vacancies"
@@ -12,92 +12,12 @@
     },
     "eu_now": {
       "ok": true,
-      "count": 39
+      "count": 31
     }
   },
-  "open_count": 44,
-  "luxembourg_count": 8,
+  "open_count": 36,
+  "luxembourg_count": 7,
   "open": [
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Finance and Contracts Assistant",
-      "institution": "European Commission",
-      "grade": "FG III",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-12T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/finance-and-contracts-assistant/ec-2026-intpa-299127"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Cybersecurity expert",
-      "institution": "(ENISA) European Union Agency for Cybersecurity",
-      "grade": "AD 8",
-      "location": "Athens (Greece)",
-      "deadline": "2026-10-12T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/cybersecurity-expert/enisa-ta-ad8-2026-14"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Specialist - EFECC Operations - Cryptocurrency",
-      "institution": "(Europol) European Union Agency for Law Enforcement Cooperation",
-      "grade": "AD 6",
-      "location": "The Hague (The Netherlands)",
-      "deadline": "2026-10-12T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/specialist-efecc-operations-cryptocurrency/europol-2026-ta-ad6-779"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Financial Officer",
-      "institution": "European Commission",
-      "grade": "FG IV",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-10-12T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/financial-officer/ec2026budg464688"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Accounting and Finance Correspondent",
-      "institution": "Innovative Health Initiative Joint Undertaking (IHI JU)",
-      "grade": "FG IV",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-12T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/accounting-and-finance-correspondent/ihi-2026-ca-001"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Financial Adviser",
-      "institution": "(HaDEA) European Health and Digital Executive Agency",
-      "grade": "FG IV",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-12T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/financial-adviser/hadea-ext-iv-2026-12"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Legal Officer",
-      "institution": "European Commission",
-      "grade": "FG IV",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-12T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/legal-officer/ec-digit-2026-441209-466075"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Document Management Agent",
-      "institution": "European Commission",
-      "grade": "AST-SC 1, AST-SC 2",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-12T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/document-management-agent/sante-com-2026-1889"
-    },
     {
       "source_site": "selection.eu-careers.europa.eu",
       "type": "Vast (EPSO-examen)",
@@ -117,16 +37,6 @@
       "location": "Brussels (Belgium), Luxembourg (Luxembourg), Strasbourg (France)",
       "deadline": "2026-10-13T10:00:00Z",
       "url": "https://selection.eu-careers.europa.eu/en/apply-ict-competition-ad8"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "BraveTech EU | Project Officer Electronic Warfare",
-      "institution": "(EDA) European Defence Agency",
-      "grade": "AD 7",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-13T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/bravetech-eu-project-officer-electronic-warfare/171a"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -171,32 +81,22 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
+      "title": "BraveTech EU | Project Officer Electronic Warfare",
+      "institution": "(EDA) European Defence Agency",
+      "grade": "AD 7",
+      "location": "Brussels (Belgium)",
+      "deadline": "2026-10-13T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/bravetech-eu-project-officer-electronic-warfare/171a"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
       "title": "Policy Officer",
       "institution": "European Commission",
       "grade": "FG IV",
       "location": "Brussels (Belgium)",
       "deadline": "2026-10-14T22:59:00Z",
       "url": "https://eu-careers.europa.eu/en/job-opportunities/policy-officer/intpa-fgiv-523293"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Scientific Officer",
-      "institution": "(ECHA) European Chemicals Agency",
-      "grade": "AD 5",
-      "location": "Helsinki (Finland)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/scientific-officer/echa-ta-2026-04"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Secretary to the Head of Representation",
-      "institution": "European Commission",
-      "grade": "FG II",
-      "location": "Valletta (Malta)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/secretary-head-representation/395755-0"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -241,12 +141,22 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Team Leader - Head of Risk",
+      "title": "Scientific Officer",
+      "institution": "(ECHA) European Chemicals Agency",
+      "grade": "AD 5",
+      "location": "Helsinki (Finland)",
+      "deadline": "2026-10-15T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/scientific-officer/echa-ta-2026-04"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
+      "title": "Secretary to the Head of Representation",
       "institution": "European Commission",
-      "grade": "AD 5, AD 6, AD 7",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-16T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/team-leader-head-risk/clima-com-2026-ta2a-526347"
+      "grade": "FG II",
+      "location": "Valletta (Malta)",
+      "deadline": "2026-10-15T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/secretary-head-representation/395755-0"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -257,6 +167,16 @@
       "location": "Brussels (Belgium)",
       "deadline": "2026-10-16T22:59:00Z",
       "url": "https://eu-careers.europa.eu/en/job-opportunities/team-leader-head-operations/clima-com-2026-ta2a-526348"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
+      "title": "Team Leader - Head of Risk",
+      "institution": "European Commission",
+      "grade": "AD 5, AD 6, AD 7",
+      "location": "Brussels (Belgium)",
+      "deadline": "2026-10-16T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/team-leader-head-risk/clima-com-2026-ta2a-526347"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -321,16 +241,6 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Head of Governance Support and Systems Unit",
-      "institution": "European Union Agency for Asylum (EUAA)",
-      "grade": "AD 10",
-      "location": "Valletta (Malta)",
-      "deadline": "2026-10-20T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/head-governance-support-and-systems-unit/euaa-2026-ta-021"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
       "title": "EU Space Market Officer",
       "institution": "(EUSPA) European Union Agency for the Space Programme",
       "grade": "AD 5",
@@ -351,6 +261,16 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
+      "title": "Head of Governance Support and Systems Unit",
+      "institution": "European Union Agency for Asylum (EUAA)",
+      "grade": "AD 10",
+      "location": "Valletta (Malta)",
+      "deadline": "2026-10-20T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/head-governance-support-and-systems-unit/euaa-2026-ta-021"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
       "title": "ICT Systems Specialist",
       "institution": "Council of the European Union",
       "grade": "AST 4",
@@ -361,12 +281,12 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Senior Specialist – Head of Team – Cybercrime Investigations Support",
-      "institution": "(Europol) European Union Agency for Law Enforcement Cooperation",
-      "grade": null,
-      "location": "The Hague (The Netherlands)",
+      "title": "Head of Pre-Accession Cooperation Sector",
+      "institution": "European Union Agency for Asylum (EUAA)",
+      "grade": "AD 8",
+      "location": "Valletta (Malta)",
       "deadline": "2026-10-22T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/senior-specialist-head-team-cybercrime-investigations-support/europol-2026-ta-ad8"
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/head-pre-accession-cooperation-sector/euaa-2026-ta-020"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -381,12 +301,12 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Head of Pre-Accession Cooperation Sector",
-      "institution": "European Union Agency for Asylum (EUAA)",
-      "grade": "AD 8",
-      "location": "Valletta (Malta)",
+      "title": "Senior Specialist – Head of Team – Cybercrime Investigations Support",
+      "institution": "(Europol) European Union Agency for Law Enforcement Cooperation",
+      "grade": null,
+      "location": "The Hague (The Netherlands)",
       "deadline": "2026-10-22T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/head-pre-accession-cooperation-sector/euaa-2026-ta-020"
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/senior-specialist-head-team-cybercrime-investigations-support/europol-2026-ta-ad8"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
