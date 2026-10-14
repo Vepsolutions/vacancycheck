@@ -1,11 +1,31 @@
 {
   "job": "esa",
-  "fetched_at": "2026-10-13T04:10:04+00:00",
+  "fetched_at": "2026-10-14T04:10:05+00:00",
   "source": "https://jobs.esa.int/search/",
   "employer": "ESA",
-  "open_count": 33,
+  "open_count": 32,
   "in_radius_count": 1,
   "open": [
+    {
+      "title": "Estonian National Graduate Trainee in Advanced Materials and Process Engineering",
+      "url": "https://jobs.esa.int/job/Harwell-Estonian-National-Graduate-Trainee-in-Advanced-Materials-and-Process-Engineering/1437024433/",
+      "location": "Harwell, GB",
+      "contract": "National Graduate Trainee",
+      "closing_text": "1 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-01T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "ASTRIS Project Manager",
+      "url": "https://jobs.esa.int/job/Paris-ASTRIS-Project-Manager/1447151733/",
+      "location": "Paris, FR",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "3 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-03T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
     {
       "title": "Navigation Systems Evolution Engineer",
       "url": "https://jobs.esa.int/job/Noordwijk-Navigation-Systems-Evolution-Engineer/1372683433/",
@@ -20,7 +40,7 @@
       "title": "Space Segment Product Engineer",
       "url": "https://jobs.esa.int/job/Harwell-Space-Segment-Product-Engineer/1387254733/",
       "location": "Noordwijk, NL • Harwell, GB",
-      "contract": "Fixed-Term",
+      "contract": "4 years, extendable to indefinite",
       "closing_text": "22 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-22T22:59:00Z",
       "posted": null,
@@ -77,16 +97,6 @@
       "in_radius": false
     },
     {
-      "title": "Contracts Officer (Reserve list)",
-      "url": "https://jobs.esa.int/job/Darmstadt-Contracts-Officer-%28Reserve-list%29/1444669633/",
-      "location": "Darmstadt, DE",
-      "contract": "Reserve List",
-      "closing_text": "27 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-27T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
       "title": "ESA Academy Training Administrator",
       "url": "https://jobs.esa.int/job/Redu-ESA-Academy-Training-Administrator/1444861833/",
       "location": "Redu, BE",
@@ -101,6 +111,16 @@
       "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-LSTM-Satellite-Engineering-and-AIV-Manager/1444621533/",
       "location": "Noordwijk, NL",
       "contract": "4 years, extendable to indefinite",
+      "closing_text": "27 October 2026 23:59 CET/CEST",
+      "deadline": "2026-10-27T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Contracts Officer (Reserve list)",
+      "url": "https://jobs.esa.int/job/Darmstadt-Contracts-Officer-%28Reserve-list%29/1444669633/",
+      "location": "Darmstadt, DE",
+      "contract": "Reserve List",
       "closing_text": "27 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-27T22:59:00Z",
       "posted": null,
@@ -167,10 +187,10 @@
       "in_radius": false
     },
     {
-      "title": "Legal Officer",
-      "url": "https://jobs.esa.int/job/Paris-Legal-Officer/1440847033/",
-      "location": "Paris, FR",
-      "contract": "Fixed-Term",
+      "title": "Luxembourgish National Graduate Trainee in Land Surface Temperature Monitoring (LTSM) Data Science",
+      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Land-Surface-Temperature-Monitoring-%28LTSM%29-Data-Science/1440901733/",
+      "location": "Frascati, IT",
+      "contract": "National Graduate Trainee",
       "closing_text": "15 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-15T22:59:00Z",
       "posted": null,
@@ -180,26 +200,6 @@
       "title": "Luxembourgish National Graduate Trainee in Robotics",
       "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Robotics/1440902233/",
       "location": "Noordwijk, NL",
-      "contract": "National Graduate Trainee",
-      "closing_text": "15 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-15T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Luxembourgish National Graduate Trainee in Opto-Electronics and Quantum Engineering",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Opto-Electronics-and-Quantum-Engineering/1440903133/",
-      "location": "Noordwijk, NL",
-      "contract": "National Graduate Trainee",
-      "closing_text": "15 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-15T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Luxembourgish National Graduate Trainee in Land Surface Temperature Monitoring (LTSM) Data Science",
-      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Land-Surface-Temperature-Monitoring-%28LTSM%29-Data-Science/1440901733/",
-      "location": "Frascati, IT",
       "contract": "National Graduate Trainee",
       "closing_text": "15 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-15T22:59:00Z",
@@ -217,10 +217,20 @@
       "in_radius": false
     },
     {
-      "title": "Luxembourgish National Graduate Trainee in Human and Robotic Exploration Commercialisation",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Human-and-Robotic-Exploration-Commercialisation/1440546033/",
+      "title": "Luxembourgish National Graduate Trainee in Opto-Electronics and Quantum Engineering",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Opto-Electronics-and-Quantum-Engineering/1440903133/",
       "location": "Noordwijk, NL",
       "contract": "National Graduate Trainee",
+      "closing_text": "15 October 2026 23:59 CET/CEST",
+      "deadline": "2026-10-15T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Legal Officer",
+      "url": "https://jobs.esa.int/job/Paris-Legal-Officer/1440847033/",
+      "location": "Paris, FR",
+      "contract": "Fixed-Term",
       "closing_text": "15 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-15T22:59:00Z",
       "posted": null,
@@ -237,9 +247,9 @@
       "in_radius": false
     },
     {
-      "title": "Luxembourgish National Graduate Trainee in Space Safety Programme Coordination",
-      "url": "https://jobs.esa.int/job/Paris-Luxembourgish-National-Graduate-Trainee-in-Space-Safety-Programme-Coordination/1440555833/",
-      "location": "Paris, FR",
+      "title": "Luxembourgish National Graduate Trainee in Human and Robotic Exploration Commercialisation",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Human-and-Robotic-Exploration-Commercialisation/1440546033/",
+      "location": "Noordwijk, NL",
       "contract": "National Graduate Trainee",
       "closing_text": "15 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-15T22:59:00Z",
@@ -257,9 +267,9 @@
       "in_radius": false
     },
     {
-      "title": "Luxembourgish National Graduate Trainee in Business Analytics and Data Science",
-      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Business-Analytics-and-Data-Science/1440415233/",
-      "location": "Frascati, IT",
+      "title": "Luxembourgish National Graduate Trainee in Space Safety Programme Coordination",
+      "url": "https://jobs.esa.int/job/Paris-Luxembourgish-National-Graduate-Trainee-in-Space-Safety-Programme-Coordination/1440555833/",
+      "location": "Paris, FR",
       "contract": "National Graduate Trainee",
       "closing_text": "15 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-15T22:59:00Z",
@@ -277,22 +287,12 @@
       "in_radius": false
     },
     {
-      "title": "ESA Cyber Security and INFOSEC Manager",
-      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Cyber-Security-and-INFOSEC-Manager/1440177633/",
-      "location": "Frascati, IT • Paris, FR • Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "13 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-13T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Planetary Scientist",
-      "url": "https://jobs.esa.int/job/Noordwijk-Planetary-Scientist/1439984133/",
-      "location": "Villanueva de la Cañada, ES • Noordwijk, NL",
-      "contract": "Fixed-Term",
-      "closing_text": "13 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-13T22:59:00Z",
+      "title": "Luxembourgish National Graduate Trainee in Business Analytics and Data Science",
+      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Business-Analytics-and-Data-Science/1440415233/",
+      "location": "Frascati, IT",
+      "contract": "National Graduate Trainee",
+      "closing_text": "15 October 2026 23:59 CET/CEST",
+      "deadline": "2026-10-15T22:59:00Z",
       "posted": null,
       "in_radius": false
     },
@@ -311,18 +311,8 @@
       "url": "https://jobs.esa.int/job/Harwell-Estonian-National-Graduate-Trainee-in-Robotics/1437025233/",
       "location": "Harwell, GB",
       "contract": "National Graduate Trainee",
-      "closing_text": "13 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-13T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Estonian National Graduate Trainee in Advanced Materials and Process Engineering",
-      "url": "https://jobs.esa.int/job/Harwell-Estonian-National-Graduate-Trainee-in-Advanced-Materials-and-Process-Engineering/1437024433/",
-      "location": "Harwell, GB",
-      "contract": "National Graduate Trainee",
-      "closing_text": "13 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-13T22:59:00Z",
+      "closing_text": "1 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-01T22:59:00Z",
       "posted": null,
       "in_radius": false
     },
@@ -331,8 +321,8 @@
       "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
       "location": "Frascati, IT",
       "contract": "National Graduate Trainee",
-      "closing_text": "13 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-13T22:59:00Z",
+      "closing_text": "1 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-01T22:59:00Z",
       "posted": null,
       "in_radius": false
     }
