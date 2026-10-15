@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-10-14T04:10:06+00:00",
+  "fetched_at": "2026-10-15T04:10:04+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_now": "https://eu-now.com/vacancies"
@@ -12,21 +12,21 @@
     },
     "eu_now": {
       "ok": true,
-      "count": 26
+      "count": 25
     }
   },
-  "open_count": 29,
+  "open_count": 28,
   "luxembourg_count": 5,
   "open": [
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Policy Officer",
-      "institution": "European Commission",
-      "grade": "FG IV",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-14T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/policy-officer/intpa-fgiv-523293"
+      "title": "Specialist – Forensic Examiner (Decryption)",
+      "institution": "(Europol) European Union Agency for Law Enforcement Cooperation",
+      "grade": "AD 6",
+      "location": "The Hague (The Netherlands)",
+      "deadline": "2026-10-15T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/specialist-forensic-examiner-decryption/europol-2026-ta-ad6-776"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -51,16 +51,6 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Scientific officer medical entomology",
-      "institution": "(ECDC) European Centre for Disease Prevention and Control",
-      "grade": "FG IV",
-      "location": "Stockholm (Sweden)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/scientific-officer-medical-entomology/ecdc-fgiv-2026-ohd-some"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
       "title": "Secretary to the Head of Representation",
       "institution": "European Commission",
       "grade": "FG II",
@@ -71,12 +61,12 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Specialist – Forensic Examiner (Decryption)",
-      "institution": "(Europol) European Union Agency for Law Enforcement Cooperation",
-      "grade": "AD 6",
-      "location": "The Hague (The Netherlands)",
+      "title": "Scientific officer medical entomology",
+      "institution": "(ECDC) European Centre for Disease Prevention and Control",
+      "grade": "FG IV",
+      "location": "Stockholm (Sweden)",
       "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/specialist-forensic-examiner-decryption/europol-2026-ta-ad6-776"
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/scientific-officer-medical-entomology/ecdc-fgiv-2026-ohd-some"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -121,22 +111,22 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Air Operations Expert - Rotorcraft",
-      "institution": "(EASA) European Union Aviation Safety Agency",
-      "grade": "AD 6",
-      "location": "Cologne (Germany)",
-      "deadline": "2026-10-18T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/air-operations-expert-rotorcraft/easa-ad-2026-1127"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
       "title": "Legal Officer",
       "institution": "(CEPOL) European Union Agency for Law Enforcement Training",
       "grade": "FG IV",
       "location": "Budapest (Hungary)",
       "deadline": "2026-10-18T22:59:00Z",
       "url": "https://eu-careers.europa.eu/en/job-opportunities/legal-officer/cepol-2026-ca-02"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
+      "title": "Air Operations Expert - Rotorcraft",
+      "institution": "(EASA) European Union Aviation Safety Agency",
+      "grade": "AD 6",
+      "location": "Cologne (Germany)",
+      "deadline": "2026-10-18T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/air-operations-expert-rotorcraft/easa-ad-2026-1127"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
