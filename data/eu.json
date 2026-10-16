@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-10-15T04:10:04+00:00",
+  "fetched_at": "2026-10-16T04:10:05+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_now": "https://eu-now.com/vacancies"
@@ -12,72 +12,12 @@
     },
     "eu_now": {
       "ok": true,
-      "count": 25
+      "count": 19
     }
   },
-  "open_count": 28,
+  "open_count": 22,
   "luxembourg_count": 5,
   "open": [
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Specialist – Forensic Examiner (Decryption)",
-      "institution": "(Europol) European Union Agency for Law Enforcement Cooperation",
-      "grade": "AD 6",
-      "location": "The Hague (The Netherlands)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/specialist-forensic-examiner-decryption/europol-2026-ta-ad6-776"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Head of Unit Maritime Digital Solutions",
-      "institution": "(EMSA) European Maritime Safety Agency",
-      "grade": "AD 10",
-      "location": "Lisbon (Portugal)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/head-unit-maritime-digital-solutions/emsa-ad-2026-10"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Specialist – Forensic Examiner (Digital Forensics)",
-      "institution": "(Europol) European Union Agency for Law Enforcement Cooperation",
-      "grade": "AD 6",
-      "location": "The Hague (The Netherlands)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/specialist-forensic-examiner-digital-forensics/europol-2026-ta-ad6-777"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Secretary to the Head of Representation",
-      "institution": "European Commission",
-      "grade": "FG II",
-      "location": "Valletta (Malta)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/secretary-head-representation/395755-0"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Scientific officer medical entomology",
-      "institution": "(ECDC) European Centre for Disease Prevention and Control",
-      "grade": "FG IV",
-      "location": "Stockholm (Sweden)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/scientific-officer-medical-entomology/ecdc-fgiv-2026-ohd-some"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Scientific Officer",
-      "institution": "(ECHA) European Chemicals Agency",
-      "grade": "AD 5",
-      "location": "Helsinki (Finland)",
-      "deadline": "2026-10-15T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/scientific-officer/echa-ta-2026-04"
-    },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
@@ -101,16 +41,6 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Air Operations Expert",
-      "institution": "(EASA) European Union Aviation Safety Agency",
-      "grade": "AD 5",
-      "location": "Cologne (Germany)",
-      "deadline": "2026-10-18T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/air-operations-expert/easa-ad-2026-1126"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
       "title": "Legal Officer",
       "institution": "(CEPOL) European Union Agency for Law Enforcement Training",
       "grade": "FG IV",
@@ -121,22 +51,22 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
+      "title": "Air Operations Expert",
+      "institution": "(EASA) European Union Aviation Safety Agency",
+      "grade": "AD 5",
+      "location": "Cologne (Germany)",
+      "deadline": "2026-10-18T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/air-operations-expert/easa-ad-2026-1126"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
       "title": "Air Operations Expert - Rotorcraft",
       "institution": "(EASA) European Union Aviation Safety Agency",
       "grade": "AD 6",
       "location": "Cologne (Germany)",
       "deadline": "2026-10-18T22:59:00Z",
       "url": "https://eu-careers.europa.eu/en/job-opportunities/air-operations-expert-rotorcraft/easa-ad-2026-1127"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Head of the Internal Audit Capability",
-      "institution": "(eu-LISA) European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice",
-      "grade": "AD 9",
-      "location": "Tallinn (Estonia)",
-      "deadline": "2026-10-19T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/head-internal-audit-capability/eu-lisa-26-ta-ad9-161"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -161,6 +91,26 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
+      "title": "Head of the Internal Audit Capability",
+      "institution": "(eu-LISA) European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice",
+      "grade": "AD 9",
+      "location": "Tallinn (Estonia)",
+      "deadline": "2026-10-19T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/head-internal-audit-capability/eu-lisa-26-ta-ad9-161"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
+      "title": "Director Research, Technology and Innovation",
+      "institution": "(EDA) European Defence Agency",
+      "grade": "AD 14",
+      "location": "Brussels (Belgium)",
+      "deadline": "2026-10-20T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/director-research-technology-and-innovation/eda-2026-029g"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
       "title": "Head of Governance Support and Systems Unit",
       "institution": "European Union Agency for Asylum (EUAA)",
       "grade": "AD 10",
@@ -181,16 +131,6 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Director Research, Technology and Innovation",
-      "institution": "(EDA) European Defence Agency",
-      "grade": "AD 14",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-20T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/director-research-technology-and-innovation/eda-2026-029g"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
       "title": "ICT Systems Specialist",
       "institution": "Council of the European Union",
       "grade": "AST 4",
@@ -201,12 +141,12 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Senior Operations Officer",
-      "institution": "European Union Agency for Asylum (EUAA)",
-      "grade": "AD 7",
-      "location": "Valletta (Malta)",
+      "title": "Project Officer",
+      "institution": "(ERA) European Union Agency for Railways",
+      "grade": "AD 6",
+      "location": "Valenciennes (France)",
       "deadline": "2026-10-22T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/senior-operations-officer/euaa-2026-ta-023"
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/project-officer/era-ad-2026-001-ope"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
@@ -221,22 +161,22 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
+      "title": "Senior Operations Officer",
+      "institution": "European Union Agency for Asylum (EUAA)",
+      "grade": "AD 7",
+      "location": "Valletta (Malta)",
+      "deadline": "2026-10-22T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/senior-operations-officer/euaa-2026-ta-023"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
       "title": "Senior Specialist – Head of Team – Cybercrime Investigations Support",
       "institution": "(Europol) European Union Agency for Law Enforcement Cooperation",
       "grade": null,
       "location": "The Hague (The Netherlands)",
       "deadline": "2026-10-22T22:59:00Z",
       "url": "https://eu-careers.europa.eu/en/job-opportunities/senior-specialist-head-team-cybercrime-investigations-support/europol-2026-ta-ad8"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Project Officer",
-      "institution": "(ERA) European Union Agency for Railways",
-      "grade": "AD 6",
-      "location": "Valenciennes (France)",
-      "deadline": "2026-10-22T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/project-officer/era-ad-2026-001-ope"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
