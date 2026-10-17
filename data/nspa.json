@@ -1,36 +1,15 @@
 {
   "job": "nspa",
-  "fetched_at": "2026-10-16T04:10:06+00:00",
+  "fetched_at": "2026-10-17T04:10:05+00:00",
   "source": "https://nspa-nato.career.emply.com/vacancies",
   "sections_found": "discovered",
   "counts": {
     "open": 61,
     "internal": 0,
-    "closed": 81
+    "closed": 80
   },
   "open_count": 42,
   "open": [
-    {
-      "section": "open",
-      "title": "LM247: BOXER Logistics Officer (Supply Chain)",
-      "location": "Luxembourg",
-      "deadline": "2026-10-19T21:59:00Z",
-      "deadline_text": "2026-10-19T21:59:00.000Z",
-      "published": "2026-09-22T09:13:17.2590104Z",
-      "url": "https://nspa-nato.career.emply.com/ad/lm247-boxer-logistics-officer-supply-chain/7pik94",
-      "id": "c5bcd9c5-17bb-4ae0-a3bb-739d33c2b236",
-      "ref": "LM247",
-      "ref_no": "2026_00571",
-      "grade": "NATO grade 15:A2",
-      "category": "Logistics",
-      "duty_location": "Luxembourg - Capellen",
-      "status": "Receiving applications until deadline",
-      "who_can_apply": "NATO Civilian Staff and external candidates who are nationals of a NATO member country are invited to apply.",
-      "min_education": "University degree (Bachelor) or equivalent",
-      "publication_type": "Current publication",
-      "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/ca9dc010-e881-43ac-a97a-0c94344fab23/content",
-      "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION (See link to the full job description in the blue box)\n- University degree in supply chain management or equivalent relevant experience. \n- Not less than five years ILS experience within a government or international organisation. \n- Proven understanding of the ILS principles and their interdependencies. \n- Experience in drafting technical/engineering requirements for military systems acquisition or modifications. \n- Sound knowledge of the Boxer system. \n- Experience and knowledge of the obsolescence management and the supply chain management processes. \n- Knowledge of the Agency's enterprise software (SAP) processes related to supply and maintenance procedures.\n- Not less than five years practical experience working in a vehicle fleet support organization. \n- Good knowledge of the ILS standards (ASD 1000D, ASD 2000M, MIL STD 1388). \n- Knowledge of the Boxer vehicle, including related systems and equipment.\n- NATO's two official languages are English and French. The work of this post is conducted mainly in English, therefore working knowledge of that language is essential. \n- A working level knowledge of German would be an asset in this post.\nWHAT DO WE OFFER?\n- Multicultural environment\n- Initial three year contract with competitive monthly tax-free salary (subject to Article 19 of the Ottawa agreement on exemption of Taxation)\n- Additional benefits for expatriate staff including expatriation and education"
-    },
     {
       "section": "open",
       "title": "PP581 : Senior Buyer (POOL)",
@@ -429,6 +408,27 @@
       "publication_type": "Current publication",
       "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/d8fdefa3-46c2-432d-ab89-c1841909362b/content",
       "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION (See link to the full job description in the blue box)\n- Secondary education and 5 years' post-related experience, or an equivalent education combined with an appropriate amount of relevant, professional experience in documentation management normally acquired as a Senior Clerk after three to five years in the Agency or in a similar organisation.\n- Senior Clerk after three to five years in the Agency or in a similar organisation.\n- Experience in technical data.\n- Experience in managing military or commercial aircraft and systems technical publications.\n- Good ability to analyse a considerable amount of data using software tools.\n- Well-developed communication skills (written and oral).\n- Ability to work independently, be self-motivated and to organise work under tight deadlines.\n- Expert knowledge of Microsoft Office applications (Excel and Word).\n- Proficiency in technical and administrative writing.\n- Excellent organizational skills.\n- Sense of diplomacy when dealing with persons inside and outside the Agency at all levels.\nWHAT DO WE OFFER?\n- Multicultural environment\n- Initial three year contract with competitive monthly tax-free salary (subject to Article 19 of the Ottawa agreement on exemption of Taxation)\n- Additional benefits for expatriate staff including expatriation and education allowances (where applicable) and additional home leave\n- Excellent health coverage\n- Great work/life balance\n- Genero"
+    },
+    {
+      "section": "open",
+      "title": "LM247: BOXER Logistics Officer (Supply Chain)",
+      "location": "Luxembourg",
+      "deadline": "2026-10-30T22:59:00Z",
+      "deadline_text": "2026-10-30T22:59:00.000Z",
+      "published": "2026-09-22T09:13:17.2590104Z",
+      "url": "https://nspa-nato.career.emply.com/ad/lm247-boxer-logistics-officer-supply-chain/7pik94",
+      "id": "c5bcd9c5-17bb-4ae0-a3bb-739d33c2b236",
+      "ref": "LM247",
+      "ref_no": "2026_00571",
+      "grade": "NATO grade 15:A2",
+      "category": "Logistics",
+      "duty_location": "Luxembourg - Capellen",
+      "status": "Receiving applications until deadline",
+      "who_can_apply": "NATO Civilian Staff and external candidates who are nationals of a NATO member country are invited to apply.",
+      "min_education": "University degree (Bachelor) or equivalent",
+      "publication_type": "Current publication",
+      "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/ca9dc010-e881-43ac-a97a-0c94344fab23/content",
+      "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION (See link to the full job description in the blue box)\n- University degree in supply chain management or equivalent relevant experience. \n- Not less than five years ILS experience within a government or international organisation. \n- Proven understanding of the ILS principles and their interdependencies. \n- Experience in drafting technical/engineering requirements for military systems acquisition or modifications. \n- Sound knowledge of the Boxer system. \n- Experience and knowledge of the obsolescence management and the supply chain management processes. \n- Knowledge of the Agency's enterprise software (SAP) processes related to supply and maintenance procedures.\n- Not less than five years practical experience working in a vehicle fleet support organization. \n- Good knowledge of the ILS standards (ASD 1000D, ASD 2000M, MIL STD 1388). \n- Knowledge of the Boxer vehicle, including related systems and equipment.\n- NATO's two official languages are English and French. The work of this post is conducted mainly in English, therefore working knowledge of that language is essential. \n- A working level knowledge of German would be an asset in this post.\nWHAT DO WE OFFER?\n- Multicultural environment\n- Initial three year contract with competitive monthly tax-free salary (subject to Article 19 of the Ottawa agreement on exemption of Taxation)\n- Additional benefits for expatriate staff including expatriation and education"
     },
     {
       "section": "open",
@@ -2742,28 +2742,6 @@
       "publication_type": "Status of closed vacancies",
       "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/8bf9108a-d216-41e2-8a88-5946daf04091/content",
       "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION - (See link to the full job description in the right blue box)\n- Complete technical secondary school or equivalent education. \n- Minimum five years’ experience in the Mechanical Electrical activities. \n- Minimum five years’ experience in deployable operations normally acquired in the Agency or in a similar organisation.\n- Experience in field maintenance and in operating and maintaining temporary installations, waste and potable water stations and power distribution systems. \n- Knowledge of basic Health and Safety rules applicable in a maintenance-working environment.\nWHAT DO WE OFFER?\n- Multicultural environment\n- Initial three year contract with competitive monthly tax-free salary (subject to Article 19 of the Ottawa agreement on exemption of Taxation)\n- Additional benefits for expatriate staff including expatriation and education allowances (where applicable) and additional home leave\n- Excellent health coverage\n- Great work/life balance\n- Generous annual leave of 6 weeks plus official holidays\n- Pension Scheme\nPOST DETAILS\n- Basic monthly salary: EUR 4 723.81 tax free - before insurance and pension contributions.\n- This post is deployable. The incumbent of this post may be required to deploy or may be assigned to a remote location, to perform duties (inside or outside a theatre/deployment location) in support of Council approved operations/missions or in support of national or multinational operations/mi"
-    },
-    {
-      "section": "closed",
-      "title": "HH005: Psycho -Social Coordinator",
-      "location": "Luxembourg",
-      "deadline": "2026-04-28T22:59:00Z",
-      "deadline_text": "28 April 2026",
-      "published": "2026-04-01T15:57:25.6618277Z",
-      "url": "https://nspa-nato.career.emply.com/ad/hh005-psycho-social-coordinator/obnnhp",
-      "id": "fe92c5ed-7855-420d-a076-811d16f624f9",
-      "deadline_parsed_from_text": true,
-      "ref": "HH-5/15:A2",
-      "ref_no": "2026_00018",
-      "grade": "NATO grade 15:A2",
-      "category": "Medical",
-      "duty_location": "Luxembourg - Capellen",
-      "status": "Candidates evaluation ongoing",
-      "who_can_apply": "NATO Civilian Staff and external candidates who are nationals of a NATO member country are invited to apply.",
-      "min_education": "University degree (Bachelor)",
-      "publication_type": "Status of closed vacancies",
-      "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/1538e311-417a-4307-99ee-4e1682c7028d/content",
-      "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION - (See link to the full job description in the right blue box)\n- University degree in Psychology, with a specialization in workplace mental health, trauma, or psychosocial support.\n- Relevant experience in: Organizational mental health, Psychosocial risk management, Staff wellbeing in high-stress or international environments.\n- Experience in developing and implementing organizational psychosocial risk management policies.\n- Experience in structuring prevention interventions in the field of psychosocial risks.\n- NATO's official languages are English and French. The work of this post requires fluency in English, while working knowledge of French is desirable.\nWHAT DO WE OFFER?\n- Multicultural environment\n- Initial three year contract with competitive monthly tax-free salary (subject to Article 19 of the Ottawa agreement on exemption of Taxation)\n- Additional benefits for expatriate staff including expatriation and education allowances (where applicable) and additional home leave\n- Excellent health coverage\n- Great work/life balance\n- Generous annual leave of 6 weeks plus official holidays\n- Pension Scheme\nPOST DETAILS\n- Basic monthly salary: EUR 7 849.98, tax free - before insurance and pension contributions.\nHOW TO APPLY?\nAll candidates (internal and external) should refer to the FAQs before applying.\nNSPA internal candidates must submit additionally their latest completed performance report.\nNSPA staff mem"
     },
     {
       "section": "closed",

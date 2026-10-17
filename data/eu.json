@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-10-16T04:10:05+00:00",
+  "fetched_at": "2026-10-17T04:10:04+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_now": "https://eu-now.com/vacancies"
@@ -12,32 +12,12 @@
     },
     "eu_now": {
       "ok": true,
-      "count": 19
+      "count": 17
     }
   },
-  "open_count": 22,
+  "open_count": 20,
   "luxembourg_count": 5,
   "open": [
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Team Leader - Head of Operations",
-      "institution": "European Commission",
-      "grade": "AD 5, AD 6, AD 7",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-16T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/team-leader-head-operations/clima-com-2026-ta2a-526348"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "title": "Team Leader - Head of Risk",
-      "institution": "European Commission",
-      "grade": "AD 5, AD 6, AD 7",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-16T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/team-leader-head-risk/clima-com-2026-ta2a-526347"
-    },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
@@ -101,22 +81,22 @@
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
       "type": "Tijdelijk/contractueel",
-      "title": "Director Research, Technology and Innovation",
-      "institution": "(EDA) European Defence Agency",
-      "grade": "AD 14",
-      "location": "Brussels (Belgium)",
-      "deadline": "2026-10-20T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/director-research-technology-and-innovation/eda-2026-029g"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
       "title": "Head of Governance Support and Systems Unit",
       "institution": "European Union Agency for Asylum (EUAA)",
       "grade": "AD 10",
       "location": "Valletta (Malta)",
       "deadline": "2026-10-20T22:59:00Z",
       "url": "https://eu-careers.europa.eu/en/job-opportunities/head-governance-support-and-systems-unit/euaa-2026-ta-021"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
+      "title": "Director Research, Technology and Innovation",
+      "institution": "(EDA) European Defence Agency",
+      "grade": "AD 14",
+      "location": "Brussels (Belgium)",
+      "deadline": "2026-10-20T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/en/job-opportunities/director-research-technology-and-innovation/eda-2026-029g"
     },
     {
       "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
