@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-10-18T04:10:04+00:00",
+  "fetched_at": "2026-10-19T04:10:05+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,75 +13,25 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 121
+      "count": 118
     },
     "eu_now": {
       "ok": true,
-      "count": 41,
+      "count": 38,
       "upcoming": 4,
       "cast": 20,
-      "temporary": 17
+      "temporary": 14
     }
   },
-  "open_count": 149,
+  "open_count": 145,
   "luxembourg_count": 33,
   "section_counts": {
     "epso": 3,
-    "temporary": 123,
+    "temporary": 119,
     "cast": 20,
     "upcoming": 3
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Legal Officer",
-      "institution": "European Union Agency for Law Enforcement Training (CEPOL)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Budapest, Hungary",
-      "deadline": "2026-10-18T21:55:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/legal-officer-2_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Air Operations Expert",
-      "institution": "European Union Aviation Safety Agency (EASA)",
-      "grade": "AD 5",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-10-18T21:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/air-operations-expert_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Air Operations Expert - Rotorcraft",
-      "institution": "European Union Aviation Safety Agency (EASA)",
-      "grade": "AD 6",
-      "contract_type": "Temporary staff",
-      "location": "Cologne, Germany",
-      "deadline": "2026-10-18T21:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/air-operations-expert-rotorcraft_en"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Air Operations Expert",
-      "institution": "(EASA) European Union Aviation Safety Agency",
-      "grade": "AD 5",
-      "location": "Cologne (Germany)",
-      "deadline": "2026-10-18T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/en/job-opportunities/air-operations-expert/easa-ad-2026-1126"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
