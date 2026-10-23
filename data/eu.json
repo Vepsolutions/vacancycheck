@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-10-22T04:10:05+00:00",
+  "fetched_at": "2026-10-23T04:10:09+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,116 +13,25 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 128
+      "count": 130
     },
     "eu_now": {
       "ok": true,
-      "count": 31,
+      "count": 27,
       "upcoming": 4,
       "cast": 20,
-      "temporary": 7
+      "temporary": 3
     }
   },
-  "open_count": 162,
-  "luxembourg_count": 41,
+  "open_count": 164,
+  "luxembourg_count": 42,
   "section_counts": {
     "epso": 11,
-    "temporary": 128,
+    "temporary": 130,
     "cast": 20,
     "upcoming": 3
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Senior Operations Officer",
-      "institution": "European Union Agency for Asylum (EUAA)",
-      "grade": "AD 7",
-      "contract_type": "Temporary staff",
-      "location": "Valletta, Malta",
-      "deadline": "2026-10-22T10:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/senior-operations-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Head of Pre-Accession Cooperation Sector",
-      "institution": "European Union Agency for Asylum (EUAA)",
-      "grade": "AD 8",
-      "contract_type": "Temporary staff",
-      "location": "Valletta, Malta",
-      "deadline": "2026-10-22T10:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/head-pre-accession-cooperation-sector_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Project Adviser - Innovation Fund",
-      "institution": "European Climate, Infrastructure and Environment Executive Agency (CINEA)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-10-22T10:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/project-adviser-innovation-fund_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Irish translator",
-      "institution": "European Commission",
-      "grade": "AD 5 - AD 7",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-10-22T10:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/irish-translator_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Finance Project Manager - Programme coordinator",
-      "institution": "European Commission",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-10-22T10:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/finance-project-manager_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Project officer",
-      "institution": "European Union Agency for Railways (ERA)",
-      "grade": null,
-      "contract_type": "Temporary staff",
-      "location": "Valenciennes, France",
-      "deadline": "2026-10-22T21:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/project-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Senior Specialist - Head of Team – Cybercrime Investigations Support",
-      "institution": "European Union Agency for Law Enforcement Cooperation (Europol)",
-      "grade": null,
-      "contract_type": "Temporary staff",
-      "location": "The Hague, Netherlands",
-      "deadline": "2026-10-22T21:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/senior-specialist_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -153,7 +62,7 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Policy Officer - Medical Counter Measures innovation and funding",
+      "title": "Medical Counter Measures innovation and funding",
       "institution": "European Commission",
       "grade": "FG IV",
       "contract_type": "Contract staff",
@@ -478,7 +387,7 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Policy Officer - Policy Officer – European Competitiveness Fund",
+      "title": "Policy Officer – European Competitiveness Fund",
       "institution": "European Commission",
       "grade": "FG IV",
       "contract_type": "Contract staff",
@@ -491,7 +400,7 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Policy Officer - Policy officer – climate and industry",
+      "title": "Policy officer – climate and industry",
       "institution": "European Commission",
       "grade": "FG IV",
       "contract_type": "Contract staff",
@@ -603,6 +512,32 @@
       "deadline": "2026-10-29T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/secretary-unit-and-head-unit-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Senior Operations Officer",
+      "institution": "European Union Agency for Asylum (EUAA)",
+      "grade": "AD 7",
+      "contract_type": "Temporary staff",
+      "location": "Valletta, Malta",
+      "deadline": "2026-10-29T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/senior-operations-officer_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Head of Pre-Accession Cooperation Sector",
+      "institution": "European Union Agency for Asylum (EUAA)",
+      "grade": "AD 8",
+      "contract_type": "Temporary staff",
+      "location": "Valletta, Malta",
+      "deadline": "2026-10-29T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/head-pre-accession-cooperation-sector_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1102,14 +1037,27 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Legal and Policy Officer",
+      "title": "Policy Officer",
       "institution": "European Commission",
       "grade": "AD 5 - AD 7",
       "contract_type": "Temporary staff",
       "location": "Brussels, Belgium",
       "deadline": "2026-11-05T11:00:00Z",
       "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/legal-and-policy-officer-1_en"
+      "url": "https://eu-careers.europa.eu/jobs/policy-officer-14_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Policy Officer",
+      "institution": "European Commission",
+      "grade": "AD 5 - AD 7",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-05T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/policy-officer-15_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1149,6 +1097,45 @@
       "deadline": "2026-11-06T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/information-and-communication-assistant_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Financial Assistant - Financial cell of Directorate",
+      "institution": "European Commission",
+      "grade": "FG III",
+      "contract_type": "Contract staff",
+      "location": "Luxembourg, Luxembourg",
+      "deadline": "2026-11-06T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/financial-assistant_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Administrative Agent - Security of the Representations",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-06T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-14_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "International Aid/Cooperation Officer",
+      "institution": "European Commission",
+      "grade": "AD 5 - AD 7",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-06T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/international-aidcooperation-officer_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1369,6 +1356,32 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Intelligence analyst",
+      "institution": "European Border and Coast Guard Agency (FRONTEX)",
+      "grade": "AD 7",
+      "contract_type": "Temporary staff",
+      "location": "Warsaw, Poland",
+      "deadline": "2026-11-17T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/intelligence-analyst_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Policy Officer - Biodiversity and Nature-based Solutions",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-17T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/policy-officer-16_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Head of Unit in the EDA Policy and Management Office - (3 posts)",
       "institution": "European Defence Agency (EDA)",
       "grade": "AD 11",
@@ -1429,6 +1442,19 @@
       "deadline": "2026-11-20T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/laboratory-technician_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Internal Auditor",
+      "institution": "Single Resolution Board (SRB)",
+      "grade": "AD 6",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-23T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/internal-auditor_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1528,7 +1554,7 @@
       "section": "epso",
       "title": "Dutch-language (NL) lawyer-linguists",
       "institution": "EU-instellingen (EPSO)",
-      "grade": "N/A",
+      "grade": "AD 7",
       "location": "Luxembourg (Luxembourg)",
       "deadline": "2026-11-25T11:00:00Z",
       "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
