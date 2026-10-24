@@ -1,21 +1,11 @@
 {
   "job": "esa",
-  "fetched_at": "2026-10-23T04:10:08+00:00",
+  "fetched_at": "2026-10-24T04:10:05+00:00",
   "source": "https://jobs.esa.int/search/",
   "employer": "ESA",
   "open_count": 35,
   "in_radius_count": 1,
   "open": [
-    {
-      "title": "ADRIOS Servicing Performance Manager",
-      "url": "https://jobs.esa.int/job/Noordwijk-ADRIOS-Servicing-Performance-Manager/1400234033/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "5 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-05T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
     {
       "title": "Junior Professional in Resilient and Secure Ground Operations Services",
       "url": "https://jobs.esa.int/job/Darmstadt-Junior-Professional-in-Resilient-and-Secure-Ground-Operations-Services/1409745033/",
@@ -23,6 +13,16 @@
       "contract": "Junior Professional",
       "closing_text": "12 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-12T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "EO Future Mission End-to-end System Engineer (2 posts)",
+      "url": "https://jobs.esa.int/job/Noordwijk-EO-Future-Mission-End-to-end-System-Engineer-%282-posts%29/1450782333/",
+      "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "13 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-13T22:59:00Z",
       "posted": null,
       "in_radius": false
     },
@@ -47,6 +47,16 @@
       "in_radius": false
     },
     {
+      "title": "EO Security Applications Engineer",
+      "url": "https://jobs.esa.int/job/Frascati-EO-Security-Applications-Engineer/1449755233/",
+      "location": "Frascati, IT",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "11 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-11T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
       "title": "ALTIUS Project Manager",
       "url": "https://jobs.esa.int/job/Noordwijk-ALTIUS-Project-Manager/1449768533/",
       "location": "Noordwijk, NL",
@@ -67,6 +77,16 @@
       "in_radius": false
     },
     {
+      "title": "Product Assurance and Safety Manager",
+      "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Manager/1449912333/",
+      "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "11 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-11T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
       "title": "Galileo Services Implementation Coordinator",
       "url": "https://jobs.esa.int/job/Noordwijk-Galileo-Services-Implementation-Coordinator/1449790733/",
       "location": "Noordwijk, NL",
@@ -77,8 +97,8 @@
       "in_radius": false
     },
     {
-      "title": "Product Assurance and Safety Manager",
-      "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Manager/1449912333/",
+      "title": "Product Assurance and Safety Engineer",
+      "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Engineer/1449926433/",
       "location": "Noordwijk, NL",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "11 November 2026 23:59 CET/CEST",
@@ -91,26 +111,6 @@
       "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-Sentinel-2-NG-Instrument-Optical-and-Performance-Lead-Engineer/1449842733/",
       "location": "Noordwijk, NL",
       "contract": "Fixed-Term",
-      "closing_text": "11 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-11T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "EO Security Applications Engineer",
-      "url": "https://jobs.esa.int/job/Frascati-EO-Security-Applications-Engineer/1449755233/",
-      "location": "Frascati, IT",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "11 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-11T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Product Assurance and Safety Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Engineer/1449926433/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
       "closing_text": "11 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-11T22:59:00Z",
       "posted": null,
@@ -137,40 +137,20 @@
       "in_radius": false
     },
     {
+      "title": "SatCom AI Technology Lead",
+      "url": "https://jobs.esa.int/job/Harwell-SatCom-AI-Technology-Lead/1448603833/",
+      "location": "Noordwijk, NL • Harwell, GB",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "6 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-06T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
       "title": "Archive Scientist",
       "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Archive-Scientist/1448343833/",
       "location": "Villanueva de la Cañada, ES",
       "contract": "Fixed-Term",
-      "closing_text": "6 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-06T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Lead End-to-End Performance Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-Lead-End-to-End-Performance-Engineer/1448559633/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "7 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-07T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Satcom Systems and Payload Lead",
-      "url": "https://jobs.esa.int/job/Noordwijk-Satcom-Systems-and-Payload-Lead/1448610333/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "6 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-06T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "CAT Project Manager",
-      "url": "https://jobs.esa.int/job/Noordwijk-CAT-Project-Manager/1448589833/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
       "closing_text": "6 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-06T22:59:00Z",
       "posted": null,
@@ -187,9 +167,29 @@
       "in_radius": false
     },
     {
-      "title": "SatCom AI Technology Lead",
-      "url": "https://jobs.esa.int/job/Harwell-SatCom-AI-Technology-Lead/1448603833/",
-      "location": "Noordwijk, NL • Harwell, GB",
+      "title": "Satcom Systems and Payload Lead",
+      "url": "https://jobs.esa.int/job/Noordwijk-Satcom-Systems-and-Payload-Lead/1448610333/",
+      "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "6 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-06T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Lead End-to-End Performance Engineer",
+      "url": "https://jobs.esa.int/job/Noordwijk-Lead-End-to-End-Performance-Engineer/1448559633/",
+      "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "7 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-07T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "CAT Project Manager",
+      "url": "https://jobs.esa.int/job/Noordwijk-CAT-Project-Manager/1448589833/",
+      "location": "Noordwijk, NL",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "6 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-06T22:59:00Z",
@@ -207,9 +207,9 @@
       "in_radius": false
     },
     {
-      "title": "Estonian National Graduate Trainee in Robotics",
-      "url": "https://jobs.esa.int/job/Harwell-Estonian-National-Graduate-Trainee-in-Robotics/1437025233/",
-      "location": "Harwell, GB",
+      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
+      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
+      "location": "Frascati, IT",
       "contract": "National Graduate Trainee",
       "closing_text": "1 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-01T22:59:00Z",
@@ -227,9 +227,9 @@
       "in_radius": false
     },
     {
-      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
-      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
-      "location": "Frascati, IT",
+      "title": "Estonian National Graduate Trainee in Robotics",
+      "url": "https://jobs.esa.int/job/Harwell-Estonian-National-Graduate-Trainee-in-Robotics/1437025233/",
+      "location": "Harwell, GB",
       "contract": "National Graduate Trainee",
       "closing_text": "1 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-01T22:59:00Z",
