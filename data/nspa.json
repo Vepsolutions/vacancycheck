@@ -1,36 +1,15 @@
 {
   "job": "nspa",
-  "fetched_at": "2026-10-25T05:10:16+00:00",
+  "fetched_at": "2026-10-26T05:10:15+00:00",
   "source": "https://nspa-nato.career.emply.com/vacancies",
   "sections_found": "discovered",
   "counts": {
-    "open": 59,
+    "open": 58,
     "internal": 0,
     "closed": 82
   },
-  "open_count": 39,
+  "open_count": 38,
   "open": [
-    {
-      "section": "open",
-      "title": "LQ136: Senior Technical Officer (Integrated Product Support-Technical Documentation)",
-      "location": "Luxembourg",
-      "deadline": "2026-10-25T22:59:00Z",
-      "deadline_text": "2026-10-25T22:59:00.000Z",
-      "published": "2026-09-28T14:09:49.574663Z",
-      "url": "https://nspa-nato.career.emply.com/ad/lq136-senior-technical-officer-integrated-product-support-technical-documentati/2fqa3c",
-      "id": "01792e16-d305-460f-9edc-3b60eee90ea8",
-      "ref": "LQ136",
-      "ref_no": "2026_00286",
-      "grade": "NATO grade 17:A3",
-      "category": "Logistics",
-      "duty_location": "Luxembourg - Capellen",
-      "status": "Receiving applications until deadline",
-      "who_can_apply": "NATO Civilian Staff and external candidates who are nationals of a NATO member country are invited to apply.",
-      "min_education": "University degree (Bachelor) or equivalent",
-      "publication_type": "Current publication",
-      "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/17ca0526-acf1-4345-9a01-35e19b50e9d2/content",
-      "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION - (See link to the full job description in the right blue box)\n- University degree in engineering or related discipline.\n- At least three years of combined experience in autonomous and/or uncrewed systems maintenance and logistics in a sizeable civilian or military organization.\n- Experience and familiarity with aspects of requirements capture, and specification of aircraft systems, preferably Uncrewed Aerial Vehicle (UAV) or other autonomous/uncrewed systems. Experience in complex multi-disciplined projects in a large multi-national contract environment.\n- Experience at least in three IPS/ILS disciplines within DMSMS & Obsolescence, Technical Publications,\n- Material Management / Supply Support / DLM, maintenance planning, FMEA/FMECA, Configuration\n- Management, Maintenance Task Analysis, SW Task Analysis and Training management.\n- Ability to facilitate/present persuasively and negotiate effectively to achieve desired outcomes.\n- Ability to manage time and work effectively under pressure while producing quality products under shortnotice deadlines.\n- Ability to work independently, to be self-motivated and to be able to prepare logical and clear reports for management decision-making.\n- Ability to develop resourceful and effective solutions to problems (including personnel), focus on team performance goals and track metrics to measure performance improvements.\n- Knowledge of NSPA contract administration, Lo"
-    },
     {
       "section": "open",
       "title": "CO26148 (LQ): Technical Expert (Logistic Technician)",

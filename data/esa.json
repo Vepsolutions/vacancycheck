@@ -1,6 +1,6 @@
 {
   "job": "esa",
-  "fetched_at": "2026-10-25T05:10:03+00:00",
+  "fetched_at": "2026-10-26T05:10:03+00:00",
   "source": "https://jobs.esa.int/search/",
   "employer": "ESA",
   "open_count": 35,
@@ -57,16 +57,6 @@
       "in_radius": false
     },
     {
-      "title": "Copernicus Sentinel-2 NG Instrument Optical and Performance Lead Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-Sentinel-2-NG-Instrument-Optical-and-Performance-Lead-Engineer/1449842733/",
-      "location": "Noordwijk, NL",
-      "contract": "Fixed-Term",
-      "closing_text": "11 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-11T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
       "title": "Galileo Services Implementation Coordinator",
       "url": "https://jobs.esa.int/job/Noordwijk-Galileo-Services-Implementation-Coordinator/1449790733/",
       "location": "Noordwijk, NL",
@@ -87,16 +77,6 @@
       "in_radius": false
     },
     {
-      "title": "Launch Services and Technical Coordinator",
-      "url": "https://jobs.esa.int/job/Noordwijk-Launch-Services-and-Technical-Coordinator/1449789033/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "11 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-11T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
       "title": "ALTIUS Project Manager",
       "url": "https://jobs.esa.int/job/Noordwijk-ALTIUS-Project-Manager/1449768533/",
       "location": "Noordwijk, NL",
@@ -109,6 +89,26 @@
     {
       "title": "Product Assurance and Safety Engineer",
       "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Engineer/1449926433/",
+      "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "11 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-11T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Copernicus Sentinel-2 NG Instrument Optical and Performance Lead Engineer",
+      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-Sentinel-2-NG-Instrument-Optical-and-Performance-Lead-Engineer/1449842733/",
+      "location": "Noordwijk, NL",
+      "contract": "Fixed-Term",
+      "closing_text": "11 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-11T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Launch Services and Technical Coordinator",
+      "url": "https://jobs.esa.int/job/Noordwijk-Launch-Services-and-Technical-Coordinator/1449789033/",
       "location": "Noordwijk, NL",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "11 November 2026 23:59 CET/CEST",
@@ -137,9 +137,29 @@
       "in_radius": false
     },
     {
-      "title": "CAT Project Manager",
-      "url": "https://jobs.esa.int/job/Noordwijk-CAT-Project-Manager/1448589833/",
+      "title": "Internal Auditor",
+      "url": "https://jobs.esa.int/job/Frascati-Internal-Auditor/1448621133/",
+      "location": "Noordwijk, NL • Frascati, IT",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "6 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-06T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Lead End-to-End Performance Engineer",
+      "url": "https://jobs.esa.int/job/Noordwijk-Lead-End-to-End-Performance-Engineer/1448559633/",
       "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "7 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-07T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "SatCom AI Technology Lead",
+      "url": "https://jobs.esa.int/job/Harwell-SatCom-AI-Technology-Lead/1448603833/",
+      "location": "Noordwijk, NL • Harwell, GB",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "6 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-06T22:59:00Z",
@@ -157,42 +177,22 @@
       "in_radius": false
     },
     {
+      "title": "CAT Project Manager",
+      "url": "https://jobs.esa.int/job/Noordwijk-CAT-Project-Manager/1448589833/",
+      "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "6 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-06T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
       "title": "Satcom Systems and Payload Lead",
       "url": "https://jobs.esa.int/job/Noordwijk-Satcom-Systems-and-Payload-Lead/1448610333/",
       "location": "Noordwijk, NL",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "6 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-06T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Internal Auditor",
-      "url": "https://jobs.esa.int/job/Frascati-Internal-Auditor/1448621133/",
-      "location": "Noordwijk, NL • Frascati, IT",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "6 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-06T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "SatCom AI Technology Lead",
-      "url": "https://jobs.esa.int/job/Harwell-SatCom-AI-Technology-Lead/1448603833/",
-      "location": "Noordwijk, NL • Harwell, GB",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "6 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-06T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Lead End-to-End Performance Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-Lead-End-to-End-Performance-Engineer/1448559633/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "7 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-07T22:59:00Z",
       "posted": null,
       "in_radius": false
     },
@@ -307,16 +307,6 @@
       "in_radius": false
     },
     {
-      "title": "Copernicus LSTM Satellite Engineering and AIV Manager",
-      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-LSTM-Satellite-Engineering-and-AIV-Manager/1444621533/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "27 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-27T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
       "title": "ESA Academy Training Administrator",
       "url": "https://jobs.esa.int/job/Redu-ESA-Academy-Training-Administrator/1444861833/",
       "location": "Redu, BE",
@@ -325,6 +315,16 @@
       "deadline": "2026-10-27T22:59:00Z",
       "posted": null,
       "in_radius": true
+    },
+    {
+      "title": "Copernicus LSTM Satellite Engineering and AIV Manager",
+      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-LSTM-Satellite-Engineering-and-AIV-Manager/1444621533/",
+      "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "27 October 2026 23:59 CET/CEST",
+      "deadline": "2026-10-27T22:59:00Z",
+      "posted": null,
+      "in_radius": false
     },
     {
       "title": "Contracts Officer (Reserve list)",
@@ -337,20 +337,20 @@
       "in_radius": false
     },
     {
-      "title": "PMSO Team Lead for Secure Connectivity",
-      "url": "https://jobs.esa.int/job/Noordwijk-PMSO-Team-Lead-for-Secure-Connectivity/1444380033/",
+      "title": "Head of the CFO Digital Transformation Office",
+      "url": "https://jobs.esa.int/job/Noordwijk-Head-of-the-CFO-Digital-Transformation-Office/1444282133/",
       "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
+      "contract": "Fixed-Term",
       "closing_text": "26 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-26T22:59:00Z",
       "posted": null,
       "in_radius": false
     },
     {
-      "title": "Head of the CFO Digital Transformation Office",
-      "url": "https://jobs.esa.int/job/Noordwijk-Head-of-the-CFO-Digital-Transformation-Office/1444282133/",
+      "title": "PMSO Team Lead for Secure Connectivity",
+      "url": "https://jobs.esa.int/job/Noordwijk-PMSO-Team-Lead-for-Secure-Connectivity/1444380033/",
       "location": "Noordwijk, NL",
-      "contract": "Fixed-Term",
+      "contract": "4 years, extendable to indefinite",
       "closing_text": "26 October 2026 23:59 CET/CEST",
       "deadline": "2026-10-26T22:59:00Z",
       "posted": null,
