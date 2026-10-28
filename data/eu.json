@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-10-27T05:10:04+00:00",
+  "fetched_at": "2026-10-28T05:10:04+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,7 +13,7 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 126
+      "count": 124
     },
     "eu_now": {
       "ok": true,
@@ -23,106 +23,15 @@
       "temporary": 2
     }
   },
-  "open_count": 160,
-  "luxembourg_count": 42,
+  "open_count": 158,
+  "luxembourg_count": 44,
   "section_counts": {
     "epso": 11,
-    "temporary": 126,
+    "temporary": 124,
     "cast": 20,
     "upcoming": 3
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Finance and Contracts Assistant",
-      "institution": "European External Action Service (EEAS)",
-      "grade": "FG III",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-10-27T10:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/finance-and-contracts-assistant-0_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Financial Specialist",
-      "institution": "Fusion for Energy (F4E)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Barcelona, Spain",
-      "deadline": "2026-10-27T10:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/financial-specialist_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Information Systems Officer",
-      "institution": "European External Action Service (EEAS)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-10-27T10:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/information-systems-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Administrative Agent - Assistant to the Deputy Director-General",
-      "institution": "European Commission",
-      "grade": "AST 1 - AST 3",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-10-27T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-10_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Information and Communication Agent",
-      "institution": "European Commission",
-      "grade": "FG II",
-      "contract_type": "Contract staff",
-      "location": "Rome, Italy",
-      "deadline": "2026-10-27T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/information-and-communication-agent-0_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "IT Officer - Software Engineering - Software Quality Engineering Specialist",
-      "institution": "European Medicines Agency (EMA)",
-      "grade": "AD 6",
-      "contract_type": "Temporary staff",
-      "location": "Amsterdam, Netherlands",
-      "deadline": "2026-10-27T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/it-officer-software-engineering_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Scientific Officer - Referral Procedure CVMP",
-      "institution": "European Medicines Agency (EMA)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Amsterdam, Netherlands",
-      "deadline": "2026-10-27T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/scientific-officer-0_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -499,19 +408,6 @@
       "deadline": "2026-10-31T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/seconded-national-expert-sne_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Seconded national expert (SNE)",
-      "institution": "European Border and Coast Guard Agency (FRONTEX)",
-      "grade": null,
-      "contract_type": "Seconded national experts",
-      "location": "Warsaw, Poland",
-      "deadline": "2026-10-31T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/seconded-national-expert-sne-7_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -959,6 +855,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Policy Assistant - Policy Assistant - Scientific/Technical",
+      "institution": "European Commission",
+      "grade": "AST 1 - AST 3",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-06T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/policy-assistant-3_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Administrative Agent",
       "institution": "Agency for the Cooperation of Energy Regulators (ACER)",
       "grade": "AST-SC 1",
@@ -1024,14 +933,14 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "IT Service Agent",
+      "title": "Case Handler Officer",
       "institution": "European Commission",
-      "grade": "AST-SC 1 - AST-SC 2",
+      "grade": "AD 5 - AD 7",
       "contract_type": "Temporary staff",
-      "location": "Luxembourg, Luxembourg",
+      "location": "Brussels, Belgium",
       "deadline": "2026-11-09T11:00:00Z",
       "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/it-service-agent_en"
+      "url": "https://eu-careers.europa.eu/jobs/case-handler-officer-3_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1050,14 +959,14 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Case Handler Officer",
+      "title": "IT Service Agent",
       "institution": "European Commission",
-      "grade": "AD 5 - AD 7",
+      "grade": "AST-SC 1 - AST-SC 2",
       "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
+      "location": "Luxembourg, Luxembourg",
       "deadline": "2026-11-09T11:00:00Z",
       "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/case-handler-officer-3_en"
+      "url": "https://eu-careers.europa.eu/jobs/it-service-agent_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1097,6 +1006,32 @@
       "deadline": "2026-11-10T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/secretary-unit-and-head-unit-1_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Secretary - SECRETARY to the Head of Unit and audit teams",
+      "institution": "European Commission",
+      "grade": "FG II",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-10T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/secretary-14_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Secretary",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Luxembourg, Luxembourg",
+      "deadline": "2026-11-10T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/secretary-13_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1239,6 +1174,32 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Administrative Agent",
+      "institution": "European Commission",
+      "grade": "FG II",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-13T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-15_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Seconded national expert (SNE)",
+      "institution": "European Border and Coast Guard Agency (FRONTEX)",
+      "grade": null,
+      "contract_type": "Seconded national experts",
+      "location": "Warsaw, Poland",
+      "deadline": "2026-11-13T22:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/seconded-national-expert-sne-7_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Administrative Assistant - with the Clean Hydrogen Joint Under (Grade AST3)",
       "institution": "Clean Hydrogen Partnership",
       "grade": "AST 3",
@@ -1260,6 +1221,19 @@
       "deadline": "2026-11-15T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/administrative-assistant-5_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Contract agent - Auxiliary contract staff member at the Library",
+      "institution": "Court of Justice of the European Union (CJEU)",
+      "grade": "FG II",
+      "contract_type": "Contract staff",
+      "location": "Luxembourg, Luxembourg",
+      "deadline": "2026-11-16T16:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/contract-agent_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
