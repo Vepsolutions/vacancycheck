@@ -1,13 +1,13 @@
 {
   "job": "nexova",
-  "fetched_at": "2026-10-29T05:10:14+00:00",
+  "fetched_at": "2026-10-30T05:10:16+00:00",
   "source": "https://www.nexovagroup.eu/en/job-vacancies",
   "employer": "Nexova (ex-RHEA) — Libin/Transinne/Redu",
   "open_count": 1,
   "open": [
     {
       "title": "Security Engineer Expert",
-      "url": "https://www.nexovagroup.eu/index%2Ephp/en/jobs/2026-04-security-engineer-expert",
+      "url": "https://www.nexovagroup.eu/en/jobs/2026-04-security-engineer-expert",
       "location": "Redu, Belgium",
       "contract": "Permanent",
       "deadline": "2026-11-02T12:00:00Z",
