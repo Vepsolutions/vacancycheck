@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-01T05:10:06+00:00",
+  "fetched_at": "2026-11-02T05:10:07+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,64 +13,25 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 124
+      "count": 121
     },
     "eu_now": {
       "ok": true,
-      "count": 26,
-      "upcoming": 4,
+      "count": 117,
+      "upcoming": 2,
       "cast": 20,
-      "temporary": 2
+      "temporary": 95
     }
   },
-  "open_count": 158,
-  "luxembourg_count": 44,
+  "open_count": 154,
+  "luxembourg_count": 43,
   "section_counts": {
     "epso": 11,
-    "temporary": 124,
+    "temporary": 121,
     "cast": 20,
-    "upcoming": 3
+    "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Analyst - Critical Raw Materials Analyst",
-      "institution": "European Commission",
-      "grade": "FG III",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-01T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/analyst_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Communications and External Relations Officer",
-      "institution": "European Union Agency for Law Enforcement Training (CEPOL)",
-      "grade": "AD 6",
-      "contract_type": "Temporary staff",
-      "location": "Budapest, Hungary",
-      "deadline": "2026-11-01T22:55:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/communications-and-external-relations-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Air Operations Expert - Rotorcraft",
-      "institution": "European Union Aviation Safety Agency (EASA)",
-      "grade": "AD 6",
-      "contract_type": "Temporary staff",
-      "location": "Cologne, Germany",
-      "deadline": "2026-11-01T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/air-operations-expert-rotorcraft-0_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -1441,20 +1402,6 @@
       "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
     },
     {
-      "source_site": "eu-now.com (officiële link: eu-careers.europa.eu)",
-      "type": "Aangekondigd examen",
-      "section": "upcoming",
-      "title": "Lawyer Linguists (Court of Justice)",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Brussels / Luxembourg",
-      "reference": "EPSO/AD/431/26",
-      "deadline": "2026-11-25T22:59:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/upcoming-selection-procedures",
-      "eu_now_url": "https://eu-now.com/vacancies/epso-ad-431-26",
-      "opens": "2026-10-21T22:59:00Z"
-    },
-    {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
@@ -1640,20 +1587,6 @@
       "source_site": "eu-now.com (officiële link: eu-careers.europa.eu)",
       "type": "Aangekondigd examen",
       "section": "upcoming",
-      "title": "Lawyers",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Brussels / Luxembourg",
-      "reference": "EPSO/AD/433/26",
-      "deadline": "2027-01-20T22:59:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/upcoming-selection-procedures",
-      "eu_now_url": "https://eu-now.com/vacancies/epso-ad-433-26",
-      "opens": "2026-12-09T22:59:00Z"
-    },
-    {
-      "source_site": "eu-now.com (officiële link: eu-careers.europa.eu)",
-      "type": "Aangekondigd examen",
-      "section": "upcoming",
       "title": "Lawyer Linguists (European Parliament, Council of the European Union and European Commission)",
       "institution": "EU-instellingen (EPSO)",
       "grade": "AD 7",
@@ -1806,6 +1739,20 @@
       "deadline": "2031-12-31T22:59:00Z",
       "always_open": true,
       "url": "https://eu-careers.europa.eu/jobs/seconded-national-expert-sne-5_en"
+    },
+    {
+      "source_site": "eu-now.com (officiële link: eu-careers.europa.eu)",
+      "type": "Aangekondigd examen",
+      "section": "upcoming",
+      "title": "Lawyers",
+      "institution": "EU-instellingen (EPSO)",
+      "grade": "AD 7",
+      "location": "Brussels / Luxembourg",
+      "reference": "EPSO/AD/433/26",
+      "deadline": null,
+      "url": "https://selection.eu-careers.europa.eu/en/upcoming-selection-procedures",
+      "eu_now_url": "https://eu-now.com/vacancies/epso-ad-433-26",
+      "opens": null
     },
     {
       "source_site": "eu-now.com (officiële link: eu-careers.europa.eu)",
