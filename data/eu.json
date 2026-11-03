@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-02T05:10:07+00:00",
+  "fetched_at": "2026-11-03T05:10:07+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,64 +13,25 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 121
+      "count": 118
     },
     "eu_now": {
       "ok": true,
-      "count": 117,
+      "count": 115,
       "upcoming": 2,
       "cast": 20,
-      "temporary": 95
+      "temporary": 93
     }
   },
-  "open_count": 154,
+  "open_count": 152,
   "luxembourg_count": 43,
   "section_counts": {
     "epso": 11,
-    "temporary": 121,
+    "temporary": 119,
     "cast": 20,
     "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "IT Officer - IT Officer - Access Management",
-      "institution": "European External Action Service (EEAS)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-02T10:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/it-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Agent finance et contrats",
-      "institution": "European Commission",
-      "grade": "FG II",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-02T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/agent-finance-et-contrats_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Policy Officer - Policy Officer - MCM innovation and funding",
-      "institution": "European Commission",
-      "grade": "AD 5 - AD 7",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-02T23:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/policy-officer-12_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -161,6 +122,17 @@
       "deadline": "2026-11-03T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/programme-officer-1_en"
+    },
+    {
+      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Policy Officer - Policy Officer - MCM innovation and funding",
+      "institution": "European Commission",
+      "grade": "AD 5 - AD 7",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-03T22:59:00Z",
+      "url": "https://eu-careers.europa.eu/jobs/policy-officer-12_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
