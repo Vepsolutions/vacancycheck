@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-04T05:10:06+00:00",
+  "fetched_at": "2026-11-05T05:10:06+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,77 +13,25 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 116
+      "count": 121
     },
     "eu_now": {
       "ok": true,
-      "count": 107,
+      "count": 108,
       "upcoming": 2,
       "cast": 20,
-      "temporary": 85
+      "temporary": 86
     }
   },
-  "open_count": 149,
+  "open_count": 154,
   "luxembourg_count": 43,
   "section_counts": {
     "epso": 11,
-    "temporary": 116,
+    "temporary": 121,
     "cast": 20,
     "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Interpreter - in the French Unit",
-      "institution": "European Commission",
-      "grade": "AD 5 - AD 7",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-04T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/interpreter-0_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Learning and Development Officer",
-      "institution": "European Centre for Disease Prevention and Control (ECDC)",
-      "grade": "AST 4",
-      "contract_type": "Temporary staff",
-      "location": "Stockholm, Sweden",
-      "deadline": "2026-11-04T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/learning-and-development-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Cybersecurity Officer",
-      "institution": "European Institute of Innovation and Technology (EIT)",
-      "grade": "AD 7",
-      "contract_type": "Temporary staff",
-      "location": "Budapest, Hungary",
-      "deadline": "2026-11-04T12:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/cybersecurity-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Procurement Officer",
-      "institution": "Agency for the Cooperation of Energy Regulators (ACER)",
-      "grade": null,
-      "contract_type": "Temporary staff",
-      "location": "Ljubljana, Slovenia",
-      "deadline": "2026-11-04T13:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/procurement-officer_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -348,19 +296,6 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Seconded national expert (SNE)",
-      "institution": "European Border and Coast Guard Agency (FRONTEX)",
-      "grade": null,
-      "contract_type": "Seconded national experts",
-      "location": "Warsaw, Poland",
-      "deadline": "2026-11-06T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/seconded-national-expert-sne-8_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
       "title": "HR Officer",
       "institution": "European Medicines Agency (EMA)",
       "grade": "FG IV",
@@ -465,19 +400,6 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Expert – IT Project Management",
-      "institution": "European Environment Agency (EEA)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Copenhagen, Denmark",
-      "deadline": "2026-11-09T23:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/expert-it-project-management_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
       "title": "Administrative Assistant",
       "institution": "European Data Protection Board (EDPB)",
       "grade": "FG II",
@@ -556,6 +478,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Interpreter - in the French Unit",
+      "institution": "European Commission",
+      "grade": "AD 5 - AD 7",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-10T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/interpreter-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Administrative Coordinator",
       "institution": "European Union Agency for Cybersecurity (ENISA)",
       "grade": "AST 4",
@@ -590,6 +525,19 @@
       "deadline": "2026-11-10T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/bravetech-eu-project-officer-ai-emerging-technologies_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Expert – IT Project Management",
+      "institution": "European Environment Agency (EEA)",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Copenhagen, Denmark",
+      "deadline": "2026-11-10T22:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/expert-it-project-management_en"
     },
     {
       "source_site": "selection.eu-careers.europa.eu",
@@ -1044,6 +992,45 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Document Management Agent - in the Document Management Centre (CAD)",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-17T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/document-management-agent-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Policy Officer",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-17T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/policy-officer-17_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Administrative Agent - to the unit",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-17T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-21_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Head of Unit Air & Space",
       "institution": "European Defence Agency (EDA)",
       "grade": "AD 11",
@@ -1091,6 +1078,32 @@
       "deadline": "2026-11-18T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/legal-assistant-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Administrative Agent - ADMINISTRATIVE SUPPORT AGENT",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-18T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-20_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Administrative/Finance Assistant",
+      "institution": "European Commission",
+      "grade": "FG III",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-18T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrativefinance-assistant_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1327,6 +1340,45 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Senior Legal Officer",
+      "institution": "European Defence Agency (EDA)",
+      "grade": "AD 9",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-26T22:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/senior-legal-officer_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Director of Capability, Armament and Planning",
+      "institution": "European Defence Agency (EDA)",
+      "grade": "AD 14",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-26T22:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/director-capability-armament-and-planning_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project Officer Medical",
+      "institution": "European Defence Agency (EDA)",
+      "grade": "AD 8",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-26T22:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-medical_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Legal Officer",
       "institution": "European Union Agency for Railways (ERA)",
       "grade": "AD 5",
@@ -1400,6 +1452,19 @@
       "deadline": "2026-12-01T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/senior-specialist-head-team-247-operational-centre_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Seconded national expert (SNE)",
+      "institution": "European Border and Coast Guard Agency (FRONTEX)",
+      "grade": null,
+      "contract_type": "Seconded national experts",
+      "location": "Warsaw, Poland",
+      "deadline": "2026-12-06T22:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/seconded-national-expert-sne-8_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
