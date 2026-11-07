@@ -1,12 +1,12 @@
 {
   "job": "ses",
-  "fetched_at": "2026-11-06T05:10:27+00:00",
+  "fetched_at": "2026-11-07T05:10:24+00:00",
   "source": "https://careers.ses.com/search/?locationsearch=Betzdorf",
   "employer": "SES / LuxGovSat (Betzdorf)",
   "source_status": {
     "ses": {
       "ok": true,
-      "count": 67
+      "count": 66
     },
     "govsat_site": {
       "ok": true,
@@ -14,22 +14,32 @@
       "note": "geen vacatures op govsat.lu"
     }
   },
-  "open_count": 67,
+  "open_count": 66,
   "govsat_count": 0,
   "open": [
     {
-      "title": "(Senior) Engineer, Payload",
-      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Payload/1445406233/",
+      "title": "Sales Manager, Global Government, Poland & Baltics",
+      "url": "https://careers.ses.com/job/Betzdorf-Sales-Manager%2C-Global-Government%2C-Poland-&-Baltics/1414792433/",
       "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
-      "posted": "2026-11-05T22:59:00Z",
+      "posted": "2026-11-07T22:59:00Z",
       "govsat": false
     },
     {
-      "title": "Engineer, Satellite Platform Engineering",
-      "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-Satellite-Platform-Engineering/1445250733/",
+      "title": "Senior Engineer, IRIS2 Facilities",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-IRIS2-Facilities/1414705333/",
+      "location": "Munich (Unterföhring), DE +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-11-07T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "(Senior) Engineer, Payload",
+      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Payload/1445406233/",
       "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
@@ -48,8 +58,8 @@
       "govsat": false
     },
     {
-      "title": "Engineer, Terminal Engineering",
-      "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-Terminal-Engineering/1445154033/",
+      "title": "Engineer, Satellite Platform Engineering",
+      "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-Satellite-Platform-Engineering/1445250733/",
       "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
@@ -78,6 +88,16 @@
       "govsat": false
     },
     {
+      "title": "Engineer, Terminal Engineering",
+      "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-Terminal-Engineering/1445154033/",
+      "location": "Betzdorf, LU",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-11-05T22:59:00Z",
+      "govsat": false
+    },
+    {
       "title": "Engineer, PCB Layout Design, meoSphere",
       "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-PCB-Layout-Design%2C-meoSphere/1403973833/",
       "location": "Betzdorf, LU",
@@ -98,19 +118,9 @@
       "govsat": false
     },
     {
-      "title": "Director of Finance, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Director-of-Finance%2C-IRIS2/1444523933/",
-      "location": "Betzdorf, LU",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-11-03T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "Senior Engineer, MEO Spacecraft, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-MEO-Spacecraft%2C-IRIS2/1443925733/",
-      "location": "Betzdorf, LU",
+      "title": "(Senior) Engineer, Constellation Simulation, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Constellation-Simulation%2C-IRIS2/1443917733/",
+      "location": "Betzdorf, LU +1 more…",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -118,9 +128,9 @@
       "govsat": false
     },
     {
-      "title": "(Senior) Engineer, Constellation Simulation, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Constellation-Simulation%2C-IRIS2/1443917733/",
-      "location": "Betzdorf, LU +1 more…",
+      "title": "Senior Engineer, MEO Spacecraft, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-MEO-Spacecraft%2C-IRIS2/1443925733/",
+      "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -135,6 +145,16 @@
       "closing_text": null,
       "deadline": null,
       "posted": "2026-10-31T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Engineer, Payload",
+      "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-Payload/1442419033/",
+      "location": "Betzdorf, LU",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-28T22:59:00Z",
       "govsat": false
     },
     {
@@ -158,18 +178,28 @@
       "govsat": false
     },
     {
-      "title": "Engineer, Payload",
-      "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-Payload/1442419033/",
+      "title": "Senior Engineer, Quantum Secure Networks, Compliance & Certification",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-Quantum-Secure-Networks%2C-Compliance-&-Certification/1274311201/",
       "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
-      "posted": "2026-10-28T22:59:00Z",
+      "posted": "2026-10-27T22:59:00Z",
       "govsat": false
     },
     {
-      "title": "Senior Engineer, Quantum Secure Networks, Compliance & Certification",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-Quantum-Secure-Networks%2C-Compliance-&-Certification/1274311201/",
+      "title": "(Senior) Engineer, UHF Payload Systems, IRIS2",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-%28Senior%29-Engineer%2C-UHF-Payload-Systems%2C-IRIS2/1400701533/",
+      "location": "Munich (Unterföhring), DE +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-27T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Infrastructure Engineer - Nutanix Virtualized Infrastructure",
+      "url": "https://careers.ses.com/job/Betzdorf-Infrastructure-Engineer-Nutanix-Virtualized-Infrastructure/1441724033/",
       "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
@@ -208,26 +238,6 @@
       "govsat": false
     },
     {
-      "title": "(Senior) Engineer, UHF Payload Systems, IRIS2",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-%28Senior%29-Engineer%2C-UHF-Payload-Systems%2C-IRIS2/1400701533/",
-      "location": "Munich (Unterföhring), DE +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-10-27T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "Infrastructure Engineer - Nutanix Virtualized Infrastructure",
-      "url": "https://careers.ses.com/job/Betzdorf-Infrastructure-Engineer-Nutanix-Virtualized-Infrastructure/1441724033/",
-      "location": "Betzdorf, LU",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-10-27T22:59:00Z",
-      "govsat": false
-    },
-    {
       "title": "Director, AI Engineering and Solutions",
       "url": "https://careers.ses.com/job/Betzdorf-Director%2C-AI-Engineering-and-Solutions-L-6815/1451809033/",
       "location": "Betzdorf, LU, L-6815 +1 more…",
@@ -258,9 +268,9 @@
       "govsat": false
     },
     {
-      "title": "Information Security Analyst, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Information-Security-Analyst%2C-IRIS2/1420653433/",
-      "location": "Betzdorf, LU",
+      "title": "Satellite Network Simulation & Emulation Engineer",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Satellite-Network-Simulation-&-Emulation-Engineer/1420956133/",
+      "location": "Munich (Unterföhring), DE +1 more…",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -268,9 +278,9 @@
       "govsat": false
     },
     {
-      "title": "Satellite Network Simulation & Emulation Engineer",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Satellite-Network-Simulation-&-Emulation-Engineer/1420956133/",
-      "location": "Munich (Unterföhring), DE +1 more…",
+      "title": "Information Security Analyst, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Information-Security-Analyst%2C-IRIS2/1420653433/",
+      "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -288,9 +298,9 @@
       "govsat": false
     },
     {
-      "title": "Senior Engineer, Systems Engineering Requirements, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-Systems-Engineering-Requirements%2C-IRIS2/1405560533/",
-      "location": "Betzdorf, LU +1 more…",
+      "title": "Senior Engineer, IVV & SW O-RAN Integration, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-IVV-&-SW-O-RAN-Integration%2C-IRIS2/1409810033/",
+      "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -298,9 +308,9 @@
       "govsat": false
     },
     {
-      "title": "Senior Engineer, IVV & SW O-RAN Integration, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-IVV-&-SW-O-RAN-Integration%2C-IRIS2/1409810033/",
-      "location": "Betzdorf, LU",
+      "title": "Senior Engineer, Systems Engineering Requirements, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-Systems-Engineering-Requirements%2C-IRIS2/1405560533/",
+      "location": "Betzdorf, LU +1 more…",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -338,9 +348,9 @@
       "govsat": false
     },
     {
-      "title": "Senior Architect, Mission Test & Pathfinder Integration, meoSphere",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Architect%2C-Mission-Test-&-Pathfinder-Integration%2C-meoSphere/1441154033/",
-      "location": "Betzdorf, LU +1 more…",
+      "title": "Senior Engineer, RF/Performance RAN Simulation, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-RFPerformance-RAN-Simulation%2C-IRIS2/1409396333/",
+      "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -358,9 +368,9 @@
       "govsat": false
     },
     {
-      "title": "Senior Engineer, RF/Performance RAN Simulation, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-RFPerformance-RAN-Simulation%2C-IRIS2/1409396333/",
-      "location": "Betzdorf, LU",
+      "title": "Senior Architect, Mission Test & Pathfinder Integration, meoSphere",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Architect%2C-Mission-Test-&-Pathfinder-Integration%2C-meoSphere/1441154033/",
+      "location": "Betzdorf, LU +1 more…",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -368,28 +378,8 @@
       "govsat": false
     },
     {
-      "title": "(Senior) 5G O-RAN Orchestration & SMO Engineer",
-      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-5G-O-RAN-Orchestration-&-SMO-Engineer/1380516133/",
-      "location": "Betzdorf, LU +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-10-22T22:59:00Z",
-      "govsat": false
-    },
-    {
       "title": "RAMS Engineer, IRIS2",
       "url": "https://careers.ses.com/job/Betzdorf-RAMS-Engineer%2C-IRIS2/1380511033/",
-      "location": "Betzdorf, LU +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-10-22T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "Manager, Enterprise Architecture & Digital Transformation, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Manager%2C-Enterprise-Architecture-&-Digital-Transformation%2C-IRIS2/1429530633/",
       "location": "Betzdorf, LU +1 more…",
       "contract": null,
       "closing_text": null,
@@ -408,9 +398,9 @@
       "govsat": false
     },
     {
-      "title": "Senior Engineer, Quality, Satellite Manufacturing",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-Quality%2C-Satellite-Manufacturing/1380502333/",
-      "location": "Betzdorf, LU",
+      "title": "(Senior) 5G O-RAN Orchestration & SMO Engineer",
+      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-5G-O-RAN-Orchestration-&-SMO-Engineer/1380516133/",
+      "location": "Betzdorf, LU +1 more…",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -418,13 +408,23 @@
       "govsat": false
     },
     {
-      "title": "Senior Engineer, Spacecraft Subsystems, Payload",
-      "url": "https://careers.ses.com/job/McLean-Senior-Engineer%2C-Spacecraft-Subsystems%2C-Payload-VA-22101/1440201133/",
-      "location": "McLean, VA, US +1 more…",
+      "title": "Manager, Enterprise Architecture & Digital Transformation, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Manager%2C-Enterprise-Architecture-&-Digital-Transformation%2C-IRIS2/1429530633/",
+      "location": "Betzdorf, LU +1 more…",
       "contract": null,
       "closing_text": null,
       "deadline": null,
-      "posted": "2026-10-21T22:59:00Z",
+      "posted": "2026-10-22T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Senior Engineer, Quality, Satellite Manufacturing",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-Quality%2C-Satellite-Manufacturing/1380502333/",
+      "location": "Betzdorf, LU",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-22T22:59:00Z",
       "govsat": false
     },
     {
@@ -438,8 +438,18 @@
       "govsat": false
     },
     {
-      "title": "Senior 5G Architect, 3GPP NR NTN, meoSphere",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-5G-Architect%2C-3GPP-NR-NTN%2C-meoSphere-L-6815/1449056833/",
+      "title": "Senior Engineer, Spacecraft Subsystems, Payload",
+      "url": "https://careers.ses.com/job/McLean-Senior-Engineer%2C-Spacecraft-Subsystems%2C-Payload-VA-22101/1440201133/",
+      "location": "McLean, VA, US +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-21T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Senior Project Controller - Cost, Risk & Performance Management, meoSphere",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Project-Controller-Cost%2C-Risk-&-Performance-Management%2C-meoSphere-L-6815/1449087833/",
       "location": "Betzdorf, LU, L-6815",
       "contract": null,
       "closing_text": null,
@@ -468,8 +478,8 @@
       "govsat": false
     },
     {
-      "title": "Senior Project Controller - Cost, Risk & Performance Management, meoSphere",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Project-Controller-Cost%2C-Risk-&-Performance-Management%2C-meoSphere-L-6815/1449087833/",
+      "title": "Senior 5G Architect, 3GPP NR NTN, meoSphere",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-5G-Architect%2C-3GPP-NR-NTN%2C-meoSphere-L-6815/1449056833/",
       "location": "Betzdorf, LU, L-6815",
       "contract": null,
       "closing_text": null,
@@ -488,8 +498,8 @@
       "govsat": false
     },
     {
-      "title": "(Senior) Engineer, DSP Systems Engineering, meoSphere",
-      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-DSP-Systems-Engineering%2C-meoSphere/1277305301/",
+      "title": "Senior Engineer, FPGA & ASIC System Architecture, meoSphere",
+      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-FPGA-&-ASIC-System-Architecture%2C-meoSphere/1407759333/",
       "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
@@ -498,8 +508,8 @@
       "govsat": false
     },
     {
-      "title": "Senior Engineer, FPGA & ASIC System Architecture, meoSphere",
-      "url": "https://careers.ses.com/job/Betzdorf-Senior-Engineer%2C-FPGA-&-ASIC-System-Architecture%2C-meoSphere/1407759333/",
+      "title": "(Senior) Engineer, DSP Systems Engineering, meoSphere",
+      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-DSP-Systems-Engineering%2C-meoSphere/1277305301/",
       "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
@@ -558,16 +568,6 @@
       "govsat": false
     },
     {
-      "title": "Head of Business Continuity Management",
-      "url": "https://careers.ses.com/job/McLean-Head-of-Business-Continuity-Management-VA-22101/1447736933/",
-      "location": "McLean, VA, US +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-10-14T22:59:00Z",
-      "govsat": false
-    },
-    {
       "title": "Director, Finance Business Excellence & Global Process Ownership",
       "url": "https://careers.ses.com/job/Betzdorf-Director%2C-Finance-Business-Excellence-&-Global-Process-Ownership/1447581433/",
       "location": "Betzdorf, LU",
@@ -578,29 +578,19 @@
       "govsat": false
     },
     {
-      "title": "Senior Engineer, Resource Optimization & Algorithm, IRIS2",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-Resource-Optimization-&-Algorithm%2C-IRIS2/1406569733/",
-      "location": "Munich (Unterföhring), DE +1 more…",
+      "title": "Head of Business Continuity Management",
+      "url": "https://careers.ses.com/job/McLean-Head-of-Business-Continuity-Management-VA-22101/1447736933/",
+      "location": "McLean, VA, US +1 more…",
       "contract": null,
       "closing_text": null,
       "deadline": null,
-      "posted": "2026-10-13T22:59:00Z",
+      "posted": "2026-10-14T22:59:00Z",
       "govsat": false
     },
     {
-      "title": "Senior Engineer, Network Orchestration Lead, IRIS2",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-Network-Orchestration-Lead%2C-IRIS2/1406568133/",
+      "title": "(Senior) Engineer, Software IVV Test & Integration, IRIS2",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-%28Senior%29-Engineer%2C-Software-IVV-Test-&-Integration%2C-IRIS2/1406560133/",
       "location": "Munich (Unterföhring), DE +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-10-13T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "(Senior) Engineer, Embedded Software, meoSphere 1",
-      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Embedded-Software%2C-meoSphere-1/1396148533/",
-      "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -618,6 +608,26 @@
       "govsat": false
     },
     {
+      "title": "Senior Engineer, Network Orchestration Lead, IRIS2",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-Network-Orchestration-Lead%2C-IRIS2/1406568133/",
+      "location": "Munich (Unterföhring), DE +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
+    {
+      "title": "Senior Engineer, Resource Optimization & Algorithm, IRIS2",
+      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-Resource-Optimization-&-Algorithm%2C-IRIS2/1406569733/",
+      "location": "Munich (Unterföhring), DE +1 more…",
+      "contract": null,
+      "closing_text": null,
+      "deadline": null,
+      "posted": "2026-10-13T22:59:00Z",
+      "govsat": false
+    },
+    {
       "title": "Senior MCC Engineer, IRIS2",
       "url": "https://careers.ses.com/job/Betzdorf-Senior-MCC-Engineer%2C-IRIS2/1406565233/",
       "location": "Betzdorf, LU +1 more…",
@@ -628,9 +638,9 @@
       "govsat": false
     },
     {
-      "title": "(Senior) Engineer, Software IVV Test & Integration, IRIS2",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-%28Senior%29-Engineer%2C-Software-IVV-Test-&-Integration%2C-IRIS2/1406560133/",
-      "location": "Munich (Unterföhring), DE +1 more…",
+      "title": "(Senior) Engineer, Embedded Software, meoSphere 1",
+      "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Embedded-Software%2C-meoSphere-1/1396148533/",
+      "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
@@ -648,16 +658,6 @@
       "govsat": false
     },
     {
-      "title": "Engineer, Satellite SDN Control Plane, IRIS2",
-      "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-Satellite-SDN-Control-Plane%2C-IRIS2/1415288933/",
-      "location": "Betzdorf, LU",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-10-10T22:59:00Z",
-      "govsat": false
-    },
-    {
       "title": "(Senior) Engineer, Mission Operations IRIS2",
       "url": "https://careers.ses.com/job/Betzdorf-%28Senior%29-Engineer%2C-Mission-Operations-IRIS2/1206717101/",
       "location": "Betzdorf, LU",
@@ -668,23 +668,13 @@
       "govsat": false
     },
     {
-      "title": "Senior Engineer, IRIS2 Facilities",
-      "url": "https://careers.ses.com/job/Munich-%28Unterf%C3%B6hring%29-Senior-Engineer%2C-IRIS2-Facilities/1414705333/",
-      "location": "Munich (Unterföhring), DE +1 more…",
-      "contract": null,
-      "closing_text": null,
-      "deadline": null,
-      "posted": "2026-10-09T22:59:00Z",
-      "govsat": false
-    },
-    {
-      "title": "Sales Manager, Global Government, Poland & Baltics",
-      "url": "https://careers.ses.com/job/Betzdorf-Sales-Manager%2C-Global-Government%2C-Poland-&-Baltics/1414792433/",
+      "title": "Engineer, Satellite SDN Control Plane, IRIS2",
+      "url": "https://careers.ses.com/job/Betzdorf-Engineer%2C-Satellite-SDN-Control-Plane%2C-IRIS2/1415288933/",
       "location": "Betzdorf, LU",
       "contract": null,
       "closing_text": null,
       "deadline": null,
-      "posted": "2026-10-09T22:59:00Z",
+      "posted": "2026-10-10T22:59:00Z",
       "govsat": false
     }
   ]
