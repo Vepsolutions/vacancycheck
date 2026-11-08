@@ -1,9 +1,9 @@
 {
   "job": "esa",
-  "fetched_at": "2026-11-07T05:10:03+00:00",
+  "fetched_at": "2026-11-08T05:10:03+00:00",
   "source": "https://jobs.esa.int/search/",
   "employer": "ESA",
-  "open_count": 204,
+  "open_count": 203,
   "in_radius_count": 6,
   "open": [
     {
@@ -27,8 +27,8 @@
       "in_radius": false
     },
     {
-      "title": "Copernicus Sentinel-3 Next Generation Topography Lead Space Segment Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-Sentinel-3-Next-Generation-Topography-Lead-Space-Segment-Engineer/1454760633/",
+      "title": "Space Safety Functional and Validation Architect",
+      "url": "https://jobs.esa.int/job/Noordwijk-Space-Safety-Functional-and-Validation-Architect/1454843333/",
       "location": "Noordwijk, NL",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "26 November 2026 23:59 CET/CEST",
@@ -37,8 +37,8 @@
       "in_radius": false
     },
     {
-      "title": "Space Safety Functional and Validation Architect",
-      "url": "https://jobs.esa.int/job/Noordwijk-Space-Safety-Functional-and-Validation-Architect/1454843333/",
+      "title": "Copernicus Sentinel-3 Next Generation Topography Lead Space Segment Engineer",
+      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-Sentinel-3-Next-Generation-Topography-Lead-Space-Segment-Engineer/1454760633/",
       "location": "Noordwijk, NL",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "26 November 2026 23:59 CET/CEST",
@@ -67,8 +67,1008 @@
       "in_radius": false
     },
     {
-      "title": "Intern in the RNC Projects Department - LEO-PNT Payload, Signal and Frequencies Team",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-RNC-Projects-Department-LEO-PNT-Payload%2C-Signal-and-Frequencies-Team/1452922533/",
+      "title": "Intern in the Commercial Partnerships Department - AI and Robotics - Space for 5G/6G",
+      "url": "https://jobs.esa.int/job/Harwell-Intern-in-the-Commercial-Partnerships-Department-AI-and-Robotics-Space-for-5G6G/1452920133/",
+      "location": "Harwell, GB",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Quality Department - Resilience, Navigation & Communication Product Assurance Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-Resilience%2C-Navigation-&-Communication-Product-Assurance-Section/1452883633/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Electrical Department - Flight Software Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Flight-Software-Section/1452880433/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Propulsion Engineering Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Propulsion-Engineering-Section/1452883933/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Elecrical Department - Space Environments and Effects Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Elecrical-Department-Space-Environments-and-Effects-Section/1452881433/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the ESA Education Office - Inspiration and Education Outreach",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-ESA-Education-Office-Inspiration-and-Education-Outreach/1452811333/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Robotics and IoT Lab",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Robotics-and-IoT-Lab/1452995833/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Utilisation and Enabled Science Team - ACES Data Analysis Support",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Utilisation-and-Enabled-Science-Team-ACES-Data-Analysis-Support/1452989633/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Commercialisation Department - Ventures and Finance Office",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Commercialisation-Department-Ventures-and-Finance-Office/1452920533/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Vega-E Programme Division",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Vega-E-Programme-Division/1452793133/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Intellectual Assets Strategic Management Office",
+      "url": "https://jobs.esa.int/job/Villigen-Intern-in-the-Intellectual-Assets-Strategic-Management-Office/1452920333/",
+      "location": "Villigen, CH",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Audit and Evaluation Department - Evaluation Office",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Audit-and-Evaluation-Department-Evaluation-Office/1452918233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Director General's Cabinet",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Director-General&apos;s-Cabinet/1452916833/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Engagement and Oversight Office - Innovative BepiColombo Science Communication",
+      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Engagement-and-Oversight-Office-Innovative-BepiColombo-Science-Communication/1452871933/",
+      "location": "Villanueva de la Cañada, ES",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the EU Relations Office in Brussels",
+      "url": "https://jobs.esa.int/job/Bruxelles-Intern-in-the-EU-Relations-Office-in-Brussels/1452866033/",
+      "location": "Bruxelles, BE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Spaceship ECSAT team",
+      "url": "https://jobs.esa.int/job/Harwell-Intern-in-the-Spaceship-ECSAT-team/1452998933/",
+      "location": "Harwell, GB",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Exploration Science Office - Data Infrastructure",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Exploration-Science-Office-Data-Infrastructure/1452988233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - ESTRACK Antenna Performance",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-ESTRACK-Antenna-Performance/1452810433/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the LUNA Analog Facility Team",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-LUNA-Analog-Facility-Team/1452999533/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Climate Action, Sustainability and Science Department - AI for Earth Observation",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-AI-for-Earth-Observation/1452876833/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Projects Department - EnVision Project: Thermo-Elastic Modelling",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Projects-Department-EnVision-Project-Thermo-Elastic-Modelling/1452872933/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - Mission Analysis Section",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Mission-Analysis-Section/1452808933/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Missions and Architecture Department - Microwave Instruments Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-and-Architecture-Department-Microwave-Instruments-Section/1452877933/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - Disruption Tolerant Networking",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Disruption-Tolerant-Networking/1452810633/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Operations Strategy and Coordination Office - Innovation and Knowledge Management",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Operations-Strategy-and-Coordination-Office-Innovation-and-Knowledge-Management/1452810933/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Climate Action, Sustainability and Science Department - Harmony Mission",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-Harmony-Mission/1452877633/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Director General's Cabinet - Protocol Office",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Director-General&apos;s-Cabinet-Protocol-Office/1452917933/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - Astrophysics Missions Division - Spacecraft Operations",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Astrophysics-Missions-Division-Spacecraft-Operations/1452799333/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Copernicus Space Office",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Copernicus-Space-Office/1452875833/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Missions Department - Astrophysics Section of the Prodex Office",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-Astrophysics-Section-of-the-Prodex-Office/1452872533/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the External Relations Department",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-External-Relations-Department/1452875233/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Resilience Office - Space Security and Geopolitical Analysis",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Resilience-Office-Space-Security-and-Geopolitical-Analysis/1452920833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Space Transportation Preparation Department - Reusability Section",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Future-Space-Transportation-Preparation-Department-Reusability-Section/1452792533/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Strategy Department - Strategy, Sustainability, and Strategic Foresight Tracks",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Strategy-Department-Strategy%2C-Sustainability%2C-and-Strategic-Foresight-Tracks/1452873833/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Operations Department - Solar Orbiter App Development",
+      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-Solar-Orbiter-App-Development/1452874833/",
+      "location": "Villanueva de la Cañada, ES",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme - Mission Implementation Division (Clear Space 1)",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Safety-Programme-Mission-Implementation-Division-%28Clear-Space-1%29/1452795033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Technology and Commercialisation Contracts Division",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-and-Commercialisation-Contracts-Division/1453009033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the ExPeRT Mars Exploration Studies Team",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-ExPeRT-Mars-Exploration-Studies-Team/1452997633/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - Solar Orbiter Mission Planning System Automation",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Solar-Orbiter-Mission-Planning-System-Automation/1452802833/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the XR Lab",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-XR-Lab/1452996933/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Missions Department - Market Intelligence and Data Infrastructure",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-Market-Intelligence-and-Data-Infrastructure/1452921033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Projects Department - EnVision Project:Venus Atmospheric Variability and Gravity Waves",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Projects-Department-EnVision-ProjectVenus-Atmospheric-Variability-and-Gravity-Waves/1452872833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Communication Department - Internal Communication Products and Channels Office",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Communication-Department-Internal-Communication-Products-and-Channels-Office/1452918033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - Web-Based Operations Tools",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Web-Based-Operations-Tools/1452807333/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Spaceship EAC Team",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Spaceship-EAC-Team/1452993533/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the CAVES & PANGAEA Team - Development of the PANGAEA Analytical Toolset",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-CAVES-&-PANGAEA-Team-Development-of-the-PANGAEA-Analytical-Toolset/1453000733/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Flight Dynamics Division - Science Mission Support Section",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Flight-Dynamics-Division-Science-Mission-Support-Section/1452809733/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Galileo and EGNOS Programme Department - Hybrid and Resilient PNT Systems Evolution",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-EGNOS-Programme-Department-Hybrid-and-Resilient-PNT-Systems-Evolution/1452921133/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ariane 6 Department - Ariane Mission and System Engineering Division",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Ariane-6-Department-Ariane-Mission-and-System-Engineering-Division/1452792833/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Legal Services Department - Institutional Law Division",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Legal-Services-Department-Institutional-Law-Division/1452870133/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Engagement and Oversight Office - CESAR Telescope Operations and Education",
+      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Engagement-and-Oversight-Office-CESAR-Telescope-Operations-and-Education/1452873733/",
+      "location": "Villanueva de la Cañada, ES",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Infrastructure Department - Propulsion Tests and Services",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Infrastructure-Department-Propulsion-Tests-and-Services/1452790433/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Missions and Architecture Department - Knowledge-Centric Mission Engineering",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-and-Architecture-Department-Knowledge-Centric-Mission-Engineering/1452876333/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Climate Action, Sustainability and Science Department - Applications Section",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-Applications-Section/1452876933/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Missions and Architecture Department - System Architect Office",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-and-Architecture-Department-System-Architect-Office/1452875933/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - Visualisation and Communication",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Visualisation-and-Communication/1452808133/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - Navigation Support Office",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Navigation-Support-Office/1452809533/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Legal Services Department - New Initiatives and Commercialisation Division",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Legal-Services-Department-New-Initiatives-and-Commercialisation-Division/1452865033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Operations Department - Discovering Astronomical Anomalies with AnomalyMatch",
+      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-Discovering-Astronomical-Anomalies-with-AnomalyMatch/1452874433/",
+      "location": "Villanueva de la Cañada, ES",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Commercialisation Acceleration Dept. - Entrepreneurship & Business Incubation Office",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Commercialisation-Acceleration-Dept_-Entrepreneurship-&-Business-Incubation-Office/1452919733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Communication Department - Brand Engagement Office",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Communication-Department-Brand-Engagement-Office/1452918833/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Climate Action, Sustainability and Science Department - Forest Applications",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-Forest-Applications/1452877233/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Operations Department - Mission Management and Science Operations Division",
+      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-Mission-Management-and-Science-Operations-Division/1452875533/",
+      "location": "Villanueva de la Cañada, ES",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Communication Department - Digital Content and Outreach for International Audiences",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Communication-Department-Digital-Content-and-Outreach-for-International-Audiences/1452918633/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Communication Department - Outreach Activities for Italian Audiences",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Communication-Department-Outreach-Activities-for-Italian-Audiences/1452919133/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Space Transportation Preparation Department - Project Support",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Future-Space-Transportation-Preparation-Department-Project-Support/1452790333/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Engagement and Oversight Office - Evolution of Borealis Planitia, Mercury",
+      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Engagement-and-Oversight-Office-Evolution-of-Borealis-Planitia%2C-Mercury/1452873333/",
+      "location": "Villanueva de la Cañada, ES",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Director General's Cabinet - Translation and Terminology",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Director-General&apos;s-Cabinet-Translation-and-Terminology/1452917633/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Utilisation & Enabled Science Team-Modelling Subsurface CO₂ & Methane Hydrates on Mars",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Utilisation-&-Enabled-Science-Team-Modelling-Subsurface-CO%E2%82%82-&-Methane-Hydrates-on-Mars/1452990433/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Exploration Strategy Office - Strategic Communication Support",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Exploration-Strategy-Office-Strategic-Communication-Support/1452998233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - End-to-End Systems Communications Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-End-to-End-Systems-Communications-Section/1452888433/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Earth Observation Projects Department - Event-Aware On-Board Processing for CHIME",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Earth-Observation-Projects-Department-Event-Aware-On-Board-Processing-for-CHIME/1452878233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in Space Applications for the Mobility Sector",
+      "url": "https://jobs.esa.int/job/Harwell-Intern-in-Space-Applications-for-the-Mobility-Sector/1452920233/",
+      "location": "Harwell, GB",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the P120/P160C Team - Rocket Propulsion Indicators and Applications of Energetic Materials",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-P120P160C-Team-Rocket-Propulsion-Indicators-and-Applications-of-Energetic-Materials/1452792733/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Commercialisation Department - Innovation Services Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Commercialisation-Department-Innovation-Services-Section/1452919833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Software and Artificial Intelligence Team - Data Management and AI Readiness",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Software-and-Artificial-Intelligence-Team-Data-Management-and-AI-Readiness/1452994833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Climate Action, Sustainability and Science Department - FLEX Mission",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-FLEX-Mission/1452877533/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - AI, Data & Digital Twins",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-AI%2C-Data-&-Digital-Twins/1452807533/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme - Planetary Defence Office - Assessing Flyeye Telescope Survey",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Space-Safety-Programme-Planetary-Defence-Office-Assessing-Flyeye-Telescope-Survey/1452797033/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - Lunar Image Super-Resolution",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Lunar-Image-Super-Resolution/1452809333/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Exploration Science Office - Assessment of Societal Benefits of Exploration Science",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Exploration-Science-Office-Assessment-of-Societal-Benefits-of-Exploration-Science/1452988833/",
+      "location": "Porz-Wahn, DE • Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Lunar Science Office - Landing Site Assessment for Future Robotic Exploration Missions",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Lunar-Science-Office-Landing-Site-Assessment-for-Future-Robotic-Exploration-Missions/1452992733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Vulcan Team",
+      "url": "https://jobs.esa.int/job/Harwell-Intern-in-the-Vulcan-Team/1452998633/",
+      "location": "Harwell, GB",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Missions and Architecture Department - EO Constellation Analysis Tool",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-and-Architecture-Department-EO-Constellation-Analysis-Tool/1452876233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Earth Observation Projects Department - CHIME Enhanced Spatial Detection Capabilities",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Earth-Observation-Projects-Department-CHIME-Enhanced-Spatial-Detection-Capabilities/1452878733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Earth Observation Projects Department - CO2M mission",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Earth-Observation-Projects-Department-CO2M-mission/1452878833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Climate Action, Sustainability and Science Department - ROSE-L Mission",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-ROSE-L-Mission/1452877833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Operations Department-AI Automation of Product Assurance & Quality Engineering",
+      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-AI-Automation-of-Product-Assurance-&-Quality-Engineering/1452874133/",
+      "location": "Villanueva de la Cañada, ES",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Eng. & Innovation Dep. - Global Interplanetary Trajectory Optimisation",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Eng_-&-Innovation-Dep_-Global-Interplanetary-Trajectory-Optimisation/1452808533/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Management and Ground Segment Department - Common Services Section",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Mission-Management-and-Ground-Segment-Department-Common-Services-Section/1452876433/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Communication Department - Audio-Visual Archiving",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Communication-Department-Audio-Visual-Archiving/1452919333/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Engagement and Oversight Office - A Logarithmic Map of the Gaia DR4 Universe",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Science-Engagement-and-Oversight-Office-A-Logarithmic-Map-of-the-Gaia-DR4-Universe/1452872333/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Director General's Cabinet - Senior Security Coordinator's Office",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Director-General&apos;s-Cabinet-Senior-Security-Coordinator&apos;s-Office/1452917433/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - Optical Technologies Section",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Optical-Technologies-Section/1452810733/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - ExoMars Time Correlation Evolution Data Analysis",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-ExoMars-Time-Correlation-Evolution-Data-Analysis/1452806733/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - Space Systems Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Space-Systems-Section/1452887733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Galileo and EGNOS Programme Department - Digital Transformation",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-EGNOS-Programme-Department-Digital-Transformation/1452922133/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the RNC Projects Department - Genesis Project Team",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-RNC-Projects-Department-Genesis-Project-Team/1452922833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Aerothermodynamics and Flight Vehicles Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Aerothermodynamics-and-Flight-Vehicles-Section/1452883733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Quality Department - Software Product Assurance Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-Software-Product-Assurance-Section/1452883233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Materials, Manufacturing and Assembly Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Materials%2C-Manufacturing-and-Assembly-Section/1452886333/",
       "location": "Noordwijk, NL",
       "contract": "Intern",
       "closing_text": "30 November 2026 23:59 CET/CEST",
@@ -79,6 +1079,666 @@
     {
       "title": "Intern in the Galileo and EGNOS Programme Department - Resilient Navigation Systems",
       "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-EGNOS-Programme-Department-Resilient-Navigation-Systems/1452921233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - Strategic Materials and Chemicals Regulatory Risk Analysis",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Strategic-Materials-and-Chemicals-Regulatory-Risk-Analysis/1452887033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - Zero Debris Approach and End-of-Life Management",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Zero-Debris-Approach-and-End-of-Life-Management/1452886933/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the RNC Projects Department - LEO-PNT Payload, Signal and Frequencies Team",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-RNC-Projects-Department-LEO-PNT-Payload%2C-Signal-and-Frequencies-Team/1452922533/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Electrical Department - Equipment and Technology Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Equipment-and-Technology-Section/1452880833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Optics Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Optics-Section/1452884533/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Future Missions Department - NoovaMoon Project",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-NoovaMoon-Project/1452922433/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in AI-enabled Scientific Knowledge Management and Discovery",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-AI-enabled-Scientific-Knowledge-Management-and-Discovery/1452989133/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Human Exploration Science Office - Human Research Project Management",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Human-Exploration-Science-Office-Human-Research-Project-Management/1452990933/",
+      "location": "Porz-Wahn, DE • Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme - Clean Space Office",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Safety-Programme-Clean-Space-Office/1452796833/",
+      "location": "Villanueva de la Cañada, ES • Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Electrical Department - AOCS and Pointing Architecture Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-AOCS-and-Pointing-Architecture-Section/1452879733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme - Space Weather Office",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Space-Safety-Programme-Space-Weather-Office/1452797933/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in Visual Communication, Presentation Design and Event Coordination",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-Visual-Communication%2C-Presentation-Design-and-Event-Coordination/1452882333/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Industrial Policy and Auditing Department - SME Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-SME-Section/1452888233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Digital, Data and Information Technology Department - Data and Apps Factory",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Digital%2C-Data-and-Information-Technology-Department-Data-and-Apps-Factory/1452793833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Galileo and Egnos Programme Department - AI for Galileo System Engineering and MBSE",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-Egnos-Programme-Department-AI-for-Galileo-System-Engineering-and-MBSE/1452922733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in Exploration Science Strategy",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-Exploration-Science-Strategy/1452986933/",
+      "location": "Noordwijk, NL • Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - JUICE Flight Control Team",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-JUICE-Flight-Control-Team/1452802433/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Human Exploration Science Office - Blood Flow Restriction Training",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Human-Exploration-Science-Office-Blood-Flow-Restriction-Training/1452991033/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme - Planetary Defence Office - Bringing Lost Asteroids Back",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Space-Safety-Programme-Planetary-Defence-Office-Bringing-Lost-Asteroids-Back/1452797533/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme - Mission Implementation Division (RISE)",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Safety-Programme-Mission-Implementation-Division-%28RISE%29/1452795233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme Coordination Office",
+      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Space-Safety-Programme-Coordination-Office/1452799133/",
+      "location": "Paris, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - Navigation Systems Implementation and Validation Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Navigation-Systems-Implementation-and-Validation-Section/1452888033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - Navigation Systems Definition Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Navigation-Systems-Definition-Section/1452887133/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Industrial Policy and Auditing Department - BUC and PMSO Office Corporate Directorates",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-BUC-and-PMSO-Office-Corporate-Directorates/1452887633/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Science Contracts Service",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Science-Contracts-Service/1452885533/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Engineering Services Section - Metrology Laboratory",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Engineering-Services-Section-Metrology-Laboratory/1452881633/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the CAVES & PANGAEA Team - Machine Learning Development",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-CAVES-&-PANGAEA-Team-Machine-Learning-Development/1453000933/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Thermal Analysis and Verification Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Thermal-Analysis-and-Verification-Section/1452885233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Human Exploration Science Office - In-flight Venous Thrombosis Countermeasures",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Human-Exploration-Science-Office-In-flight-Venous-Thrombosis-Countermeasures/1452991933/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Quality Department - Space Debris Mitigation",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-Space-Debris-Mitigation/1452882833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - Deep Space and External Services Section",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Deep-Space-and-External-Services-Section/1452801633/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - Infrastructure Analytics and Anomaly Detection",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Infrastructure-Analytics-and-Anomaly-Detection/1452801333/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - Automated Tools for ESEC SmallSat Operations",
+      "url": "https://jobs.esa.int/job/Redu-Intern-in-the-Mission-Operations-Department-Automated-Tools-for-ESEC-SmallSat-Operations/1452800833/",
+      "location": "Redu, BE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": true
+    },
+    {
+      "title": "Intern in the Contracts Department - Earth Observation Contracts Service",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Contracts-Department-Earth-Observation-Contracts-Service/1452884633/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Contracts Department",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Contracts-Department/1452986633/",
+      "location": "Frascati, IT",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme - Frequency Management Office",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Space-Safety-Programme-Frequency-Management-Office/1452798333/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Ground Systems Engineering & Innovation Department - Security Engineering",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Security-Engineering/1452807933/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Materials, Environments and Contamination Control Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Materials%2C-Environments-and-Contamination-Control-Section/1452885833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Secure Connectivity Department - Payload Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Secure-Connectivity-Department-Payload-Section/1452921733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - FDIR System Engineering",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-FDIR-System-Engineering/1452887833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Opto-Electronics Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Opto-Electronics-Section/1452884233/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - Cost Engineering Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Cost-Engineering-Section/1452887533/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Mechanisms Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Mechanisms-Section/1452886133/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - Concurrent Engineering and Future Missions Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Concurrent-Engineering-and-Future-Missions-Section/1452886733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Technology Department - Accelerate and Innovation Technology Team",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-Department-Accelerate-and-Innovation-Technology-Team/1452882033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Robotics Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Robotics-Section/1452884433/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Quality Department - RAMS Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Galileo and EGNOS Programme Department - System Engineering Section",
+      "url": "https://jobs.esa.int/job/Toulouse-Intern-in-the-Galileo-and-EGNOS-Programme-Department-System-Engineering-Section/1452922933/",
+      "location": "Toulouse, FR",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - Python Tools for Earth Explorer Flight Operations",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Python-Tools-for-Earth-Explorer-Flight-Operations/1452799933/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - Space Weather & OPS-SAT Lab Mission Operations",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Space-Weather-&-OPS-SAT-Lab-Mission-Operations/1452799733/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Industrial Audit Services Office - Audit Baseline Services Unit",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Audit-Services-Office-Audit-Baseline-Services-Unit/1452887933/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Technology Department - Advanced Concepts Team",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-Department-Advanced-Concepts-Team/1452881833/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Training Team - Video and Multimedia Production",
+      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Space-Training-Team-Video-and-Multimedia-Production/1452999833/",
+      "location": "Porz-Wahn, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Galileo and EGNOS Programme Department - Artificial Intelligence",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-EGNOS-Programme-Department-Artificial-Intelligence/1452922033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Electrical Department - Power Systems Architecture Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Power-Systems-Architecture-Section/1452881333/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mission Operations Department - ESTRACK Stations and Infrastructure Section",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-ESTRACK-Stations-and-Infrastructure-Section/1452802133/",
+      "location": "Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Mechanical Department - Structures Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Structures-Section/1452886433/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Space Safety Programme - Space Debris Office",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Space-Safety-Programme-Space-Debris-Office/1452797833/",
+      "location": "Noordwijk, NL • Darmstadt, DE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Systems Department - AI and Data Science Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-AI-and-Data-Science-Section/1452886633/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the ESA Security Office - Cyber Internal Audit Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-ESA-Security-Office-Cyber-Internal-Audit-Section/1452793533/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Electrical Department - Microelectronics Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Microelectronics-Section/1452880333/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the ESA Education Office - STEM Education, Didactics and E-Learning for Teachers",
+      "url": "https://jobs.esa.int/job/Redu-Intern-in-the-ESA-Education-Office-STEM-Education%2C-Didactics-and-E-Learning-for-Teachers/1452794633/",
+      "location": "Redu, BE",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": true
+    },
+    {
+      "title": "Intern in the Electrical Department - Wave Interaction and Propagation Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Wave-Interaction-and-Propagation-Section/1452881033/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Electrical Department - Antenna and Sub-millimetre Waves Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Antenna-and-Sub-millimetre-Waves-Section/1452880733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Quality Department - Human Spaceflight Safety",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-Human-Spaceflight-Safety/1452882733/",
+      "location": "Noordwijk, NL",
+      "contract": "Intern",
+      "closing_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "Intern in the Electrical Department - GNC Systems Architecture Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-GNC-Systems-Architecture-Section/1452880033/",
       "location": "Noordwijk, NL",
       "contract": "Intern",
       "closing_text": "30 November 2026 23:59 CET/CEST",
@@ -107,238 +1767,8 @@
       "in_radius": false
     },
     {
-      "title": "Intern in the Technology Department - Accelerate and Innovation Technology Team",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-Department-Accelerate-and-Innovation-Technology-Team/1452882033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Galileo and EGNOS Programme Department - Digital Transformation",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-EGNOS-Programme-Department-Digital-Transformation/1452922133/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
       "title": "Intern in the Electrical Department - Data Handling Systems Section",
       "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Data-Handling-Systems-Section/1452880133/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Digital, Data and Information Technology Department - Data and Apps Factory",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Digital%2C-Data-and-Information-Technology-Department-Data-and-Apps-Factory/1452793833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Electrical Department - Microelectronics Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Microelectronics-Section/1452880333/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Systems Department - Zero Debris Approach and End-of-Life Management",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Zero-Debris-Approach-and-End-of-Life-Management/1452886933/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Electrical Department - Wave Interaction and Propagation Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Wave-Interaction-and-Propagation-Section/1452881033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Galileo and EGNOS Programme Department - Artificial Intelligence",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-EGNOS-Programme-Department-Artificial-Intelligence/1452922033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Quality Department - RAMS Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Robotics Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Robotics-Section/1452884433/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the ESA Education Office - STEM Education, Didactics and E-Learning for Teachers",
-      "url": "https://jobs.esa.int/job/Redu-Intern-in-the-ESA-Education-Office-STEM-Education%2C-Didactics-and-E-Learning-for-Teachers/1452794633/",
-      "location": "Redu, BE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": true
-    },
-    {
-      "title": "Intern in the Systems Department - AI and Data Science Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-AI-and-Data-Science-Section/1452886633/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Missions Department - NoovaMoon Project",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-NoovaMoon-Project/1452922433/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Secure Connectivity Department - Payload Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Secure-Connectivity-Department-Payload-Section/1452921733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Electrical Department - Flight Software Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Flight-Software-Section/1452880433/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Safety Programme - Mission Implementation Division (RISE)",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Safety-Programme-Mission-Implementation-Division-%28RISE%29/1452795233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Electrical Department - AOCS and Pointing Architecture Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-AOCS-and-Pointing-Architecture-Section/1452879733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in Visual Communication, Presentation Design and Event Coordination",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-Visual-Communication%2C-Presentation-Design-and-Event-Coordination/1452882333/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Quality Department - Space Debris Mitigation",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-Space-Debris-Mitigation/1452882833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - XMM-Newton and INTEGRAL Mission Operations",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-XMM-Newton-and-INTEGRAL-Mission-Operations/1452799233/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Electrical Department - Power Systems Architecture Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Power-Systems-Architecture-Section/1452881333/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Propulsion Engineering Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Propulsion-Engineering-Section/1452883933/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Human Exploration Science Office - Blood Flow Restriction Training",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Human-Exploration-Science-Office-Blood-Flow-Restriction-Training/1452991033/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the ESA Security Office - Cyber Internal Audit Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-ESA-Security-Office-Cyber-Internal-Audit-Section/1452793533/",
       "location": "Noordwijk, NL",
       "contract": "Intern",
       "closing_text": "30 November 2026 23:59 CET/CEST",
@@ -357,449 +1787,9 @@
       "in_radius": false
     },
     {
-      "title": "Intern in the Contracts Department",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Contracts-Department/1452986633/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Contracts Department - Earth Observation Contracts Service",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Contracts-Department-Earth-Observation-Contracts-Service/1452884633/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Operations Department - Solar Orbiter App Development",
-      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-Solar-Orbiter-App-Development/1452874833/",
-      "location": "Villanueva de la Cañada, ES",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Earth Observation Projects Department - Event-Aware On-Board Processing for CHIME",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Earth-Observation-Projects-Department-Event-Aware-On-Board-Processing-for-CHIME/1452878233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Commercialisation Department - Innovation Services Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Commercialisation-Department-Innovation-Services-Section/1452919833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Operations Department - Discovering Astronomical Anomalies with AnomalyMatch",
-      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-Discovering-Astronomical-Anomalies-with-AnomalyMatch/1452874433/",
-      "location": "Villanueva de la Cañada, ES",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Galileo and EGNOS Programme Department - Hybrid and Resilient PNT Systems Evolution",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-EGNOS-Programme-Department-Hybrid-and-Resilient-PNT-Systems-Evolution/1452921133/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Resilience Office - Space Security and Geopolitical Analysis",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Resilience-Office-Space-Security-and-Geopolitical-Analysis/1452920833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Missions Department - Market Intelligence and Data Infrastructure",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-Market-Intelligence-and-Data-Infrastructure/1452921033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in Space Applications for the Mobility Sector",
-      "url": "https://jobs.esa.int/job/Harwell-Intern-in-Space-Applications-for-the-Mobility-Sector/1452920233/",
-      "location": "Harwell, GB",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Legal Services Department - New Initiatives and Commercialisation Division",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Legal-Services-Department-New-Initiatives-and-Commercialisation-Division/1452865033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Communication Department - Brand Engagement Office",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Communication-Department-Brand-Engagement-Office/1452918833/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Engagement and Oversight Office - Innovative BepiColombo Science Communication",
-      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Engagement-and-Oversight-Office-Innovative-BepiColombo-Science-Communication/1452871933/",
-      "location": "Villanueva de la Cañada, ES",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Missions and Architecture Department - EO Constellation Analysis Tool",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-and-Architecture-Department-EO-Constellation-Analysis-Tool/1452876233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Operations Department - Mission Management and Science Operations Division",
-      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-Mission-Management-and-Science-Operations-Division/1452875533/",
-      "location": "Villanueva de la Cañada, ES",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Space Transportation Preparation Department - Reusability Section",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Future-Space-Transportation-Preparation-Department-Reusability-Section/1452792533/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Strategy Department - Strategy, Sustainability, and Strategic Foresight Tracks",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Strategy-Department-Strategy%2C-Sustainability%2C-and-Strategic-Foresight-Tracks/1452873833/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Commercialisation Acceleration Dept. - Entrepreneurship & Business Incubation Office",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Commercialisation-Acceleration-Dept_-Entrepreneurship-&-Business-Incubation-Office/1452919733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Director General's Cabinet",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Director-General&apos;s-Cabinet/1452916833/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Earth Observation Projects Department - CHIME Enhanced Spatial Detection Capabilities",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Earth-Observation-Projects-Department-CHIME-Enhanced-Spatial-Detection-Capabilities/1452878733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Director General's Cabinet - Translation and Terminology",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Director-General&apos;s-Cabinet-Translation-and-Terminology/1452917633/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Engagement and Oversight Office - Evolution of Borealis Planitia, Mercury",
-      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Engagement-and-Oversight-Office-Evolution-of-Borealis-Planitia%2C-Mercury/1452873333/",
-      "location": "Villanueva de la Cañada, ES",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Vega-E Programme Division",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Vega-E-Programme-Division/1452793133/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Systems Department - Concurrent Engineering and Future Missions Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Concurrent-Engineering-and-Future-Missions-Section/1452886733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Technology Department - Advanced Concepts Team",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-Department-Advanced-Concepts-Team/1452881833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the ESA Education Office - Inspiration and Education Outreach",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-ESA-Education-Office-Inspiration-and-Education-Outreach/1452811333/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the LUNA Analog Facility Team",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-LUNA-Analog-Facility-Team/1452999533/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Engagement and Oversight Office - A Logarithmic Map of the Gaia DR4 Universe",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Science-Engagement-and-Oversight-Office-A-Logarithmic-Map-of-the-Gaia-DR4-Universe/1452872333/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Missions Department - Astrophysics Section of the Prodex Office",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-Astrophysics-Section-of-the-Prodex-Office/1452872533/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Commercial Partnerships Department - AI and Robotics - Space for 5G/6G",
-      "url": "https://jobs.esa.int/job/Harwell-Intern-in-the-Commercial-Partnerships-Department-AI-and-Robotics-Space-for-5G6G/1452920133/",
-      "location": "Harwell, GB",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Legal Services Department - Institutional Law Division",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Legal-Services-Department-Institutional-Law-Division/1452870133/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the P120/P160C Team - Rocket Propulsion Indicators and Applications of Energetic Materials",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-P120P160C-Team-Rocket-Propulsion-Indicators-and-Applications-of-Energetic-Materials/1452792733/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Intellectual Assets Strategic Management Office",
-      "url": "https://jobs.esa.int/job/Villigen-Intern-in-the-Intellectual-Assets-Strategic-Management-Office/1452920333/",
-      "location": "Villigen, CH",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Contracts Service",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Science-Contracts-Service/1452885533/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Engineering Services Section - Metrology Laboratory",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Engineering-Services-Section-Metrology-Laboratory/1452881633/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Electrical Department - Equipment and Technology Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Equipment-and-Technology-Section/1452880833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Industrial Policy and Auditing Department - BUC and PMSO Office Corporate Directorates",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-BUC-and-PMSO-Office-Corporate-Directorates/1452887633/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Elecrical Department - Space Environments and Effects Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Elecrical-Department-Space-Environments-and-Effects-Section/1452881433/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Safety Programme - Planetary Defence Office - Assessing Flyeye Telescope Survey",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Space-Safety-Programme-Planetary-Defence-Office-Assessing-Flyeye-Telescope-Survey/1452797033/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Structures Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Structures-Section/1452886433/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - Python Tools for Earth Explorer Flight Operations",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Python-Tools-for-Earth-Explorer-Flight-Operations/1452799933/",
+      "title": "Intern in the Mission Operations Department - XMM-Newton and INTEGRAL Mission Operations",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-XMM-Newton-and-INTEGRAL-Mission-Operations/1452799233/",
       "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Operations Strategy and Coordination Office - Innovation and Knowledge Management",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Operations-Strategy-and-Coordination-Office-Innovation-and-Knowledge-Management/1452810933/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Training Team - Video and Multimedia Production",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Space-Training-Team-Video-and-Multimedia-Production/1452999833/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Life Support and Physical Sciences Instrumentation Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Life-Support-and-Physical-Sciences-Instrumentation-Section/1452884333/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Safety Programme - Clean Space Office",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Safety-Programme-Clean-Space-Office/1452796833/",
-      "location": "Villanueva de la Cañada, ES • Noordwijk, NL",
       "contract": "Intern",
       "closing_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30T22:59:00Z",
@@ -817,999 +1807,9 @@
       "in_radius": false
     },
     {
-      "title": "Intern in the Systems Department - Navigation Systems Definition Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Navigation-Systems-Definition-Section/1452887133/",
+      "title": "Intern in the Mechanical Department - Life Support and Physical Sciences Instrumentation Section",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Life-Support-and-Physical-Sciences-Instrumentation-Section/1452884333/",
       "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Systems Department - Strategic Materials and Chemicals Regulatory Risk Analysis",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Strategic-Materials-and-Chemicals-Regulatory-Risk-Analysis/1452887033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Electrical Department - GNC Systems Architecture Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-GNC-Systems-Architecture-Section/1452880033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - Visualisation and Communication",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Visualisation-and-Communication/1452808133/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Systems Department - Space Systems Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Space-Systems-Section/1452887733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Eng. & Innovation Dep. - Global Interplanetary Trajectory Optimisation",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Eng_-&-Innovation-Dep_-Global-Interplanetary-Trajectory-Optimisation/1452808533/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Quality Department - Resilience, Navigation & Communication Product Assurance Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-Resilience%2C-Navigation-&-Communication-Product-Assurance-Section/1452883633/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Systems Department - Navigation Systems Implementation and Validation Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Navigation-Systems-Implementation-and-Validation-Section/1452888033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - Navigation Support Office",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Navigation-Support-Office/1452809533/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Exploration Science Office - Data Infrastructure",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Exploration-Science-Office-Data-Infrastructure/1452988233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Galileo and Egnos Programme Department - AI for Galileo System Engineering and MBSE",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-Egnos-Programme-Department-AI-for-Galileo-System-Engineering-and-MBSE/1452922733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Thermal Analysis and Verification Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Thermal-Analysis-and-Verification-Section/1452885233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Aerothermodynamics and Flight Vehicles Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Aerothermodynamics-and-Flight-Vehicles-Section/1452883733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - Space Weather & OPS-SAT Lab Mission Operations",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Space-Weather-&-OPS-SAT-Lab-Mission-Operations/1452799733/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - Mission Analysis Section",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Mission-Analysis-Section/1452808933/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Safety Programme - Space Debris Office",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Space-Safety-Programme-Space-Debris-Office/1452797833/",
-      "location": "Noordwijk, NL • Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Electrical Department - Antenna and Sub-millimetre Waves Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Electrical-Department-Antenna-and-Sub-millimetre-Waves-Section/1452880733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Missions and Architecture Department - Microwave Instruments Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-and-Architecture-Department-Microwave-Instruments-Section/1452877933/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - AI, Data & Digital Twins",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-AI%2C-Data-&-Digital-Twins/1452807533/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - Optical Technologies Section",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Optical-Technologies-Section/1452810733/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Climate Action, Sustainability and Science Department - Harmony Mission",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-Harmony-Mission/1452877633/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Communication Department - Digital Content and Outreach for International Audiences",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Communication-Department-Digital-Content-and-Outreach-for-International-Audiences/1452918633/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Communication Department - Audio-Visual Archiving",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Communication-Department-Audio-Visual-Archiving/1452919333/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Communication Department - Outreach Activities for Italian Audiences",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Communication-Department-Outreach-Activities-for-Italian-Audiences/1452919133/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Projects Department - EnVision Project: Thermo-Elastic Modelling",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Projects-Department-EnVision-Project-Thermo-Elastic-Modelling/1452872933/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Operations Department-AI Automation of Product Assurance & Quality Engineering",
-      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-AI-Automation-of-Product-Assurance-&-Quality-Engineering/1452874133/",
-      "location": "Villanueva de la Cañada, ES",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Space Transportation Preparation Department - Project Support",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Future-Space-Transportation-Preparation-Department-Project-Support/1452790333/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Director General's Cabinet - Senior Security Coordinator's Office",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Director-General&apos;s-Cabinet-Senior-Security-Coordinator&apos;s-Office/1452917433/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Climate Action, Sustainability and Science Department - FLEX Mission",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-FLEX-Mission/1452877533/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Climate Action, Sustainability and Science Department - AI for Earth Observation",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-AI-for-Earth-Observation/1452876833/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Communication Department - Internal Communication Products and Channels Office",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Communication-Department-Internal-Communication-Products-and-Channels-Office/1452918033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Climate Action, Sustainability and Science Department - ROSE-L Mission",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-ROSE-L-Mission/1452877833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Quality Department - Human Spaceflight Safety",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-Human-Spaceflight-Safety/1452882733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the ExPeRT Mars Exploration Studies Team",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-ExPeRT-Mars-Exploration-Studies-Team/1452997633/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Spaceship ECSAT team",
-      "url": "https://jobs.esa.int/job/Harwell-Intern-in-the-Spaceship-ECSAT-team/1452998933/",
-      "location": "Harwell, GB",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - Infrastructure Analytics and Anomaly Detection",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Infrastructure-Analytics-and-Anomaly-Detection/1452801333/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - Deep Space and External Services Section",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Deep-Space-and-External-Services-Section/1452801633/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the CAVES & PANGAEA Team - Development of the PANGAEA Analytical Toolset",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-CAVES-&-PANGAEA-Team-Development-of-the-PANGAEA-Analytical-Toolset/1453000733/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Missions and Architecture Department - System Architect Office",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-and-Architecture-Department-System-Architect-Office/1452875933/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Future Missions and Architecture Department - Knowledge-Centric Mission Engineering",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-and-Architecture-Department-Knowledge-Centric-Mission-Engineering/1452876333/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Software and Artificial Intelligence Team - Data Management and AI Readiness",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Software-and-Artificial-Intelligence-Team-Data-Management-and-AI-Readiness/1452994833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - ESTRACK Stations and Infrastructure Section",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-ESTRACK-Stations-and-Infrastructure-Section/1452802133/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - Disruption Tolerant Networking",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Disruption-Tolerant-Networking/1452810633/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - Web-Based Operations Tools",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Web-Based-Operations-Tools/1452807333/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Industrial Audit Services Office - Audit Baseline Services Unit",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Audit-Services-Office-Audit-Baseline-Services-Unit/1452887933/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Exploration Strategy Office - Strategic Communication Support",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Exploration-Strategy-Office-Strategic-Communication-Support/1452998233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - ExoMars Time Correlation Evolution Data Analysis",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-ExoMars-Time-Correlation-Evolution-Data-Analysis/1452806733/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Audit and Evaluation Department - Evaluation Office",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Audit-and-Evaluation-Department-Evaluation-Office/1452918233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Management and Ground Segment Department - Common Services Section",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Mission-Management-and-Ground-Segment-Department-Common-Services-Section/1452876433/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Human Exploration Science Office - Human Research Project Management",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Human-Exploration-Science-Office-Human-Research-Project-Management/1452990933/",
-      "location": "Porz-Wahn, DE • Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Systems Department - FDIR System Engineering",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-FDIR-System-Engineering/1452887833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in Exploration Science Strategy",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-Exploration-Science-Strategy/1452986933/",
-      "location": "Noordwijk, NL • Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Quality Department - Software Product Assurance Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-Software-Product-Assurance-Section/1452883233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in AI-enabled Scientific Knowledge Management and Discovery",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-AI-enabled-Scientific-Knowledge-Management-and-Discovery/1452989133/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Optics Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Optics-Section/1452884533/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - JUICE Flight Control Team",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-JUICE-Flight-Control-Team/1452802433/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - Solar Orbiter Mission Planning System Automation",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Solar-Orbiter-Mission-Planning-System-Automation/1452802833/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - Lunar Image Super-Resolution",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Lunar-Image-Super-Resolution/1452809333/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Exploration Science Office - Assessment of Societal Benefits of Exploration Science",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Exploration-Science-Office-Assessment-of-Societal-Benefits-of-Exploration-Science/1452988833/",
-      "location": "Porz-Wahn, DE • Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Flight Dynamics Division - Science Mission Support Section",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Flight-Dynamics-Division-Science-Mission-Support-Section/1452809733/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Safety Programme Coordination Office",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Space-Safety-Programme-Coordination-Office/1452799133/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Mechanisms Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Mechanisms-Section/1452886133/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - Astrophysics Missions Division - Spacecraft Operations",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Astrophysics-Missions-Division-Spacecraft-Operations/1452799333/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Climate Action, Sustainability and Science Department - Applications Section",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-Applications-Section/1452876933/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - ESTRACK Antenna Performance",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-ESTRACK-Antenna-Performance/1452810433/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Climate Action, Sustainability and Science Department - Forest Applications",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Climate-Action%2C-Sustainability-and-Science-Department-Forest-Applications/1452877233/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the XR Lab",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-XR-Lab/1452996933/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Human Exploration Science Office - In-flight Venous Thrombosis Countermeasures",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Human-Exploration-Science-Office-In-flight-Venous-Thrombosis-Countermeasures/1452991933/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ground Systems Engineering & Innovation Department - Security Engineering",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Ground-Systems-Engineering-&-Innovation-Department-Security-Engineering/1452807933/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Lunar Science Office - Landing Site Assessment for Future Robotic Exploration Missions",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Lunar-Science-Office-Landing-Site-Assessment-for-Future-Robotic-Exploration-Missions/1452992733/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Utilisation & Enabled Science Team-Modelling Subsurface CO₂ & Methane Hydrates on Mars",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Utilisation-&-Enabled-Science-Team-Modelling-Subsurface-CO%E2%82%82-&-Methane-Hydrates-on-Mars/1452990433/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Earth Observation Projects Department - CO2M mission",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Earth-Observation-Projects-Department-CO2M-mission/1452878833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Science Engagement and Oversight Office - CESAR Telescope Operations and Education",
-      "url": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Engagement-and-Oversight-Office-CESAR-Telescope-Operations-and-Education/1452873733/",
-      "location": "Villanueva de la Cañada, ES",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Commercialisation Department - Ventures and Finance Office",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Commercialisation-Department-Ventures-and-Finance-Office/1452920533/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Infrastructure Department - Propulsion Tests and Services",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Infrastructure-Department-Propulsion-Tests-and-Services/1452790433/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Copernicus Space Office",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Copernicus-Space-Office/1452875833/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Projects Department - EnVision Project:Venus Atmospheric Variability and Gravity Waves",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Projects-Department-EnVision-ProjectVenus-Atmospheric-Variability-and-Gravity-Waves/1452872833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the External Relations Department",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-External-Relations-Department/1452875233/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the EU Relations Office in Brussels",
-      "url": "https://jobs.esa.int/job/Bruxelles-Intern-in-the-EU-Relations-Office-in-Brussels/1452866033/",
-      "location": "Bruxelles, BE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Robotics and IoT Lab",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Robotics-and-IoT-Lab/1452995833/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Safety Programme - Space Weather Office",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Space-Safety-Programme-Space-Weather-Office/1452797933/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Safety Programme - Mission Implementation Division (Clear Space 1)",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Safety-Programme-Mission-Implementation-Division-%28Clear-Space-1%29/1452795033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Systems Department - Cost Engineering Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-Cost-Engineering-Section/1452887533/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the CAVES & PANGAEA Team - Machine Learning Development",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-CAVES-&-PANGAEA-Team-Machine-Learning-Development/1453000933/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Spaceship EAC Team",
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Spaceship-EAC-Team/1452993533/",
-      "location": "Porz-Wahn, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mission Operations Department - Automated Tools for ESEC SmallSat Operations",
-      "url": "https://jobs.esa.int/job/Redu-Intern-in-the-Mission-Operations-Department-Automated-Tools-for-ESEC-SmallSat-Operations/1452800833/",
-      "location": "Redu, BE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": true
-    },
-    {
-      "title": "Intern in the Space Safety Programme - Frequency Management Office",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Space-Safety-Programme-Frequency-Management-Office/1452798333/",
-      "location": "Darmstadt, DE",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Space Safety Programme - Planetary Defence Office - Bringing Lost Asteroids Back",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Space-Safety-Programme-Planetary-Defence-Office-Bringing-Lost-Asteroids-Back/1452797533/",
-      "location": "Frascati, IT",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Materials, Environments and Contamination Control Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Materials%2C-Environments-and-Contamination-Control-Section/1452885833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Systems Department - End-to-End Systems Communications Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Systems-Department-End-to-End-Systems-Communications-Section/1452888433/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Utilisation and Enabled Science Team - ACES Data Analysis Support",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Utilisation-and-Enabled-Science-Team-ACES-Data-Analysis-Support/1452989633/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Opto-Electronics Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Opto-Electronics-Section/1452884233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Industrial Policy and Auditing Department - SME Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-SME-Section/1452888233/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Technology and Commercialisation Contracts Division",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-and-Commercialisation-Contracts-Division/1453009033/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Vulcan Team",
-      "url": "https://jobs.esa.int/job/Harwell-Intern-in-the-Vulcan-Team/1452998633/",
-      "location": "Harwell, GB",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the RNC Projects Department - Genesis Project Team",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-RNC-Projects-Department-Genesis-Project-Team/1452922833/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Galileo and EGNOS Programme Department - System Engineering Section",
-      "url": "https://jobs.esa.int/job/Toulouse-Intern-in-the-Galileo-and-EGNOS-Programme-Department-System-Engineering-Section/1452922933/",
-      "location": "Toulouse, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Mechanical Department - Materials, Manufacturing and Assembly Section",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Materials%2C-Manufacturing-and-Assembly-Section/1452886333/",
-      "location": "Noordwijk, NL",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Director General's Cabinet - Protocol Office",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Director-General&apos;s-Cabinet-Protocol-Office/1452917933/",
-      "location": "Paris, FR",
-      "contract": "Intern",
-      "closing_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Intern in the Ariane 6 Department - Ariane Mission and System Engineering Division",
-      "url": "https://jobs.esa.int/job/Paris-Intern-in-the-Ariane-6-Department-Ariane-Mission-and-System-Engineering-Division/1452792833/",
-      "location": "Paris, FR",
       "contract": "Intern",
       "closing_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30T22:59:00Z",
@@ -1897,22 +1897,22 @@
       "in_radius": false
     },
     {
-      "title": "In-Orbit Servicing Performance Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-In-Orbit-Servicing-Performance-Engineer/1400234033/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "16 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-16T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
       "title": "Junior Professional in Resilient and Secure Ground Operations Services",
       "url": "https://jobs.esa.int/job/Darmstadt-Junior-Professional-in-Resilient-and-Secure-Ground-Operations-Services/1409745033/",
       "location": "Darmstadt, DE",
       "contract": "Junior Professional",
       "closing_text": "12 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-12T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "In-Orbit Servicing Performance Engineer",
+      "url": "https://jobs.esa.int/job/Noordwijk-In-Orbit-Servicing-Performance-Engineer/1400234033/",
+      "location": "Noordwijk, NL",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "16 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-16T22:59:00Z",
       "posted": null,
       "in_radius": false
     },
@@ -1927,16 +1927,6 @@
       "in_radius": false
     },
     {
-      "title": "Head of the Systems and Project Support Section",
-      "url": "https://jobs.esa.int/job/Darmstadt-Head-of-the-Systems-and-Project-Support-Section/1450262033/",
-      "location": "Darmstadt, DE",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "12 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-12T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
       "title": "Head of the Earth Observation Projects Department",
       "url": "https://jobs.esa.int/job/Noordwijk-Head-of-the-Earth-Observation-Projects-Department/1450299333/",
       "location": "Noordwijk, NL",
@@ -1947,12 +1937,12 @@
       "in_radius": false
     },
     {
-      "title": "ALTIUS Project Manager",
-      "url": "https://jobs.esa.int/job/Noordwijk-ALTIUS-Project-Manager/1449768533/",
-      "location": "Noordwijk, NL",
+      "title": "Head of the Systems and Project Support Section",
+      "url": "https://jobs.esa.int/job/Darmstadt-Head-of-the-Systems-and-Project-Support-Section/1450262033/",
+      "location": "Darmstadt, DE",
       "contract": "4 years, extendable to indefinite",
-      "closing_text": "11 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-11T22:59:00Z",
+      "closing_text": "12 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-12T22:59:00Z",
       "posted": null,
       "in_radius": false
     },
@@ -1977,8 +1967,18 @@
       "in_radius": false
     },
     {
-      "title": "Product Assurance and Safety Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Engineer/1449926433/",
+      "title": "EO Security Applications Engineer",
+      "url": "https://jobs.esa.int/job/Frascati-EO-Security-Applications-Engineer/1449755233/",
+      "location": "Frascati, IT",
+      "contract": "4 years, extendable to indefinite",
+      "closing_text": "11 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-11T22:59:00Z",
+      "posted": null,
+      "in_radius": false
+    },
+    {
+      "title": "ALTIUS Project Manager",
+      "url": "https://jobs.esa.int/job/Noordwijk-ALTIUS-Project-Manager/1449768533/",
       "location": "Noordwijk, NL",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "11 November 2026 23:59 CET/CEST",
@@ -1997,20 +1997,20 @@
       "in_radius": false
     },
     {
-      "title": "EO Security Applications Engineer",
-      "url": "https://jobs.esa.int/job/Frascati-EO-Security-Applications-Engineer/1449755233/",
-      "location": "Frascati, IT",
-      "contract": "4 years, extendable to indefinite",
+      "title": "Copernicus Sentinel-2 NG Instrument Optical and Performance Lead Engineer",
+      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-Sentinel-2-NG-Instrument-Optical-and-Performance-Lead-Engineer/1449842733/",
+      "location": "Noordwijk, NL",
+      "contract": "Fixed-Term",
       "closing_text": "11 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-11T22:59:00Z",
       "posted": null,
       "in_radius": false
     },
     {
-      "title": "Copernicus Sentinel-2 NG Instrument Optical and Performance Lead Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-Sentinel-2-NG-Instrument-Optical-and-Performance-Lead-Engineer/1449842733/",
+      "title": "Product Assurance and Safety Engineer",
+      "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Engineer/1449926433/",
       "location": "Noordwijk, NL",
-      "contract": "Fixed-Term",
+      "contract": "4 years, extendable to indefinite",
       "closing_text": "11 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-11T22:59:00Z",
       "posted": null,
@@ -2029,20 +2029,10 @@
     {
       "title": "Internal Auditor",
       "url": "https://jobs.esa.int/job/Frascati-Internal-Auditor/1448621133/",
-      "location": "Porz-Wahn, DE • Darmstadt, DE • Noordwijk, NL • Frascati, IT",
+      "location": "Noordwijk, NL • Darmstadt, DE • Porz-Wahn, DE • Frascati, IT",
       "contract": "4 years, extendable to indefinite",
       "closing_text": "13 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-13T22:59:00Z",
-      "posted": null,
-      "in_radius": false
-    },
-    {
-      "title": "Lead End-to-End Performance Engineer",
-      "url": "https://jobs.esa.int/job/Noordwijk-Lead-End-to-End-Performance-Engineer/1448559633/",
-      "location": "Noordwijk, NL",
-      "contract": "4 years, extendable to indefinite",
-      "closing_text": "7 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-07T22:59:00Z",
       "posted": null,
       "in_radius": false
     }

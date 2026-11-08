@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-07T05:10:07+00:00",
+  "fetched_at": "2026-11-08T05:10:06+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -17,10 +17,10 @@
     },
     "eu_now": {
       "ok": true,
-      "count": 107,
+      "count": 123,
       "upcoming": 2,
       "cast": 20,
-      "temporary": 85
+      "temporary": 101
     }
   },
   "open_count": 160,
