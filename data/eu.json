@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-08T05:10:06+00:00",
+  "fetched_at": "2026-11-09T05:10:07+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,51 +13,25 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 127
+      "count": 125
     },
     "eu_now": {
       "ok": true,
-      "count": 123,
+      "count": 121,
       "upcoming": 2,
       "cast": 20,
-      "temporary": 101
+      "temporary": 99
     }
   },
-  "open_count": 160,
+  "open_count": 158,
   "luxembourg_count": 45,
   "section_counts": {
     "epso": 11,
-    "temporary": 127,
+    "temporary": 125,
     "cast": 20,
     "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Senior Agent - Software Testing",
-      "institution": "European Union Agency for Law Enforcement Cooperation (Europol)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "The Hague, Netherlands",
-      "deadline": "2026-11-08T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/senior-agent-software-testing_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Senior Agent - Software Testing",
-      "institution": "European Union Agency for Law Enforcement Cooperation (Europol)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "The Hague, Netherlands",
-      "deadline": "2026-11-08T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/senior-agent-software-testing-0_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
