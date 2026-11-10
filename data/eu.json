@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-09T05:10:07+00:00",
+  "fetched_at": "2026-11-10T05:10:08+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,90 +13,25 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 125
+      "count": 124
     },
     "eu_now": {
       "ok": true,
-      "count": 121,
+      "count": 116,
       "upcoming": 2,
       "cast": 20,
-      "temporary": 99
+      "temporary": 94
     }
   },
-  "open_count": 158,
-  "luxembourg_count": 45,
+  "open_count": 157,
+  "luxembourg_count": 44,
   "section_counts": {
     "epso": 11,
-    "temporary": 125,
+    "temporary": 124,
     "cast": 20,
     "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Policy Officer",
-      "institution": "European Commission",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-09T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/policy-officer-11_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "IT Service Agent",
-      "institution": "European Commission",
-      "grade": "AST-SC 1 - AST-SC 2",
-      "contract_type": "Temporary staff",
-      "location": "Luxembourg, Luxembourg",
-      "deadline": "2026-11-09T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/it-service-agent_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Policy Assistant",
-      "institution": "European Commission",
-      "grade": "FG III",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-09T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/policy-assistant-2_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Case Handler Officer",
-      "institution": "European Commission",
-      "grade": "AD 5 - AD 7",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-09T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/case-handler-officer-3_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "DORA JET Members",
-      "institution": "European Insurance and Occupational Pensions Authority (EIOPA)",
-      "grade": "AD 5",
-      "contract_type": "Temporary staff",
-      "location": "Frankfurt, Germany",
-      "deadline": "2026-11-09T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/dora-jet-members_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -239,39 +174,6 @@
       "deadline": "2026-11-10T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/expert-it-project-management_en"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Data processing, analytics, and statistics",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AST 3",
-      "location": "Brussels (Belgium), Luxembourg (Luxembourg), Strasbourg (France)",
-      "deadline": "2026-11-11T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-data-management-competition-ast3"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Librarianship and information science",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AST 3",
-      "location": "Brussels (Belgium), Luxembourg (Luxembourg), Strasbourg (France)",
-      "deadline": "2026-11-11T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-data-management-competition-ast3"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Records and archives management",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AST 3",
-      "location": "Brussels (Belgium), Luxembourg (Luxembourg), Strasbourg (France)",
-      "deadline": "2026-11-11T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-data-management-competition-ast3"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -597,19 +499,6 @@
       "deadline": "2026-11-16T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/project-officer-3_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Secretary to the Unit and Head of Unit",
-      "institution": "European Commission",
-      "grade": "AST-SC 1 - AST-SC 2",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-16T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/secretary-unit-and-head-unit-2_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -992,6 +881,32 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Secretary",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-20T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/secretary-18_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Linguist Assistant",
+      "institution": "European Commission",
+      "grade": "AST 1 - AST 3",
+      "contract_type": "Temporary staff",
+      "location": "Luxembourg, Luxembourg",
+      "deadline": "2026-11-20T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/linguist-assistant_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Administrative Support Agent",
       "institution": "European Commission",
       "grade": "AST-SC 1 - AST-SC 2",
@@ -1018,14 +933,27 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Linguist Assistant",
+      "title": "Secretary to the Unit and Head of Unit",
       "institution": "European Commission",
-      "grade": "AST 1 - AST 3",
+      "grade": "AST-SC 1 - AST-SC 2",
       "contract_type": "Temporary staff",
-      "location": "Luxembourg, Luxembourg",
+      "location": "Brussels, Belgium",
       "deadline": "2026-11-20T11:00:00Z",
       "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/linguist-assistant_en"
+      "url": "https://eu-careers.europa.eu/jobs/secretary-unit-and-head-unit-2_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Secretary",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-20T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/secretary-19_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1130,6 +1058,19 @@
       "deadline": "2026-11-24T10:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/operations-security-manager_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Legal Advisor",
+      "institution": "European Research Executive Agency (REA)",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-24T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/legal-advisor_en"
     },
     {
       "source_site": "selection.eu-careers.europa.eu",
@@ -1431,6 +1372,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Head of Department - Strategy, Delivery and Communicaitons",
+      "institution": "Agency for the Cooperation of Energy Regulators (ACER)",
+      "grade": "AD 12",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-30T13:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/head-department_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Seconded National Experts (multiple profiles)",
       "institution": "European Securities and Markets Authority (ESMA)",
       "grade": null,
@@ -1517,6 +1471,39 @@
       "deadline": "2026-12-07T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/legal-expert_en"
+    },
+    {
+      "source_site": "selection.eu-careers.europa.eu",
+      "type": "Vast (EPSO-examen)",
+      "section": "epso",
+      "title": "Data processing, analytics, and statistics",
+      "institution": "EU-instellingen (EPSO)",
+      "grade": "AST 3",
+      "location": "Brussels (Belgium), Luxembourg (Luxembourg), Strasbourg (France)",
+      "deadline": "2026-12-09T11:00:00Z",
+      "url": "https://selection.eu-careers.europa.eu/en/apply-data-management-competition-ast3"
+    },
+    {
+      "source_site": "selection.eu-careers.europa.eu",
+      "type": "Vast (EPSO-examen)",
+      "section": "epso",
+      "title": "Librarianship and information science",
+      "institution": "EU-instellingen (EPSO)",
+      "grade": "AST 3",
+      "location": "Brussels (Belgium), Luxembourg (Luxembourg), Strasbourg (France)",
+      "deadline": "2026-12-09T11:00:00Z",
+      "url": "https://selection.eu-careers.europa.eu/en/apply-data-management-competition-ast3"
+    },
+    {
+      "source_site": "selection.eu-careers.europa.eu",
+      "type": "Vast (EPSO-examen)",
+      "section": "epso",
+      "title": "Records and archives management",
+      "institution": "EU-instellingen (EPSO)",
+      "grade": "AST 3",
+      "location": "Brussels (Belgium), Luxembourg (Luxembourg), Strasbourg (France)",
+      "deadline": "2026-12-09T11:00:00Z",
+      "url": "https://selection.eu-careers.europa.eu/en/apply-data-management-competition-ast3"
     },
     {
       "source_site": "eu-careers.europa.eu",
