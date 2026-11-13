@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-12T05:10:07+00:00",
+  "fetched_at": "2026-11-13T05:10:07+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,7 +13,7 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 116
+      "count": 121
     },
     "eu_now": {
       "ok": true,
@@ -23,67 +23,15 @@
       "temporary": 87
     }
   },
-  "open_count": 149,
-  "luxembourg_count": 43,
+  "open_count": 154,
+  "luxembourg_count": 42,
   "section_counts": {
     "epso": 11,
-    "temporary": 116,
+    "temporary": 121,
     "cast": 20,
     "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "HRM Agent - Junior Professionals Programme",
-      "institution": "European Commission",
-      "grade": "AST-SC 1 - AST-SC 2",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-12T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/hrm-agent_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Secretary to the Director",
-      "institution": "European Commission",
-      "grade": "AST-SC 1 - AST-SC 2",
-      "contract_type": "Temporary staff",
-      "location": "Luxembourg, Luxembourg",
-      "deadline": "2026-11-12T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/secretary-director-0_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Horizontal Policy Officer - RECOVERY AND RESILIENCE FACILITY (RRF)",
-      "institution": "European Commission",
-      "grade": "AD 5 - AD 7",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-12T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/horizontal-policy-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Administrative Agent",
-      "institution": "European Commission",
-      "grade": "AST-SC 1 - AST-SC 2",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-12T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-18_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -995,6 +943,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Secretary - To the Head of Unit and to the Unit",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-25T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/secretary-21_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Document Management Assistant",
       "institution": "European External Action Service (EEAS)",
       "grade": "FG III",
@@ -1008,14 +969,14 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "Secretary - To the Head of Unit and to the Unit",
+      "title": "Finance and Contracts Agents - Grants and Procurement",
       "institution": "European Commission",
       "grade": "AST-SC 1 - AST-SC 2",
       "contract_type": "Temporary staff",
       "location": "Brussels, Belgium",
       "deadline": "2026-11-25T11:00:00Z",
       "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/secretary-21_en"
+      "url": "https://eu-careers.europa.eu/jobs/finance-and-contracts-agents_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1042,6 +1003,19 @@
       "deadline": "2026-11-26T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/administrative-agent-23_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Policy Officer - Fisheries Management",
+      "institution": "European Commission",
+      "grade": "AD 5 - AD 7",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-26T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/policy-officer-18_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1216,6 +1190,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "HRM Agent",
+      "institution": "European Commission",
+      "grade": null,
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-27T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/hrm-agent-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Executive Assistant - Executive Assistant at the RDD",
       "institution": "Court of Justice of the European Union (CJEU)",
       "grade": "AST 1 - AST 3",
@@ -1237,6 +1224,32 @@
       "deadline": "2026-11-29T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/legal-officer-11_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Member of the Legal Service",
+      "institution": "European Commission",
+      "grade": null,
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-30T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/member-legal-service_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Administrative Agent",
+      "institution": "European Commission",
+      "grade": null,
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-30T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-25_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1346,6 +1359,32 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "ICT Security Assistant",
+      "institution": "Council of the European Union",
+      "grade": "AST 4",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-12-04T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/ict-security-assistant_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Administrative Agent",
+      "institution": "European Commission",
+      "grade": "AST-SC 1 - AST-SC 2",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-12-04T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-24_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Seconded national expert (SNE)",
       "institution": "European Border and Coast Guard Agency (FRONTEX)",
       "grade": null,
@@ -1431,6 +1470,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Training Design Specialist",
+      "institution": "European Union Agency for Law Enforcement Training (CEPOL)",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Budapest, Hungary",
+      "deadline": "2027-01-03T22:55:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/training-design-specialist_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Project Officer Information",
       "institution": "European Defence Agency (EDA)",
       "grade": "AD 9 - AD 10",
@@ -1478,6 +1530,19 @@
       "deadline": "2027-01-07T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/project-officer-space_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Digital Learning Platform Officer",
+      "institution": "European Union Agency for Law Enforcement Training (CEPOL)",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Budapest, Hungary",
+      "deadline": "2027-01-10T22:55:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/digital-learning-platform-officer_en"
     },
     {
       "source_site": "eu-careers.europa.eu",

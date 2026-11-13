@@ -1,21 +1,10 @@
 {
   "job": "eib",
-  "fetched_at": "2026-11-12T05:10:02+00:00",
+  "fetched_at": "2026-11-13T05:10:02+00:00",
   "source": "https://erecruitment.eib.org (Atom-feed)",
   "employer": "EIB Group (EIB + EIF), Luxemburg",
-  "open_count": 20,
+  "open_count": 19,
   "open": [
-    {
-      "title": "(Senior) Risk Officer",
-      "entity": "EIF (European Investment Fund)",
-      "job_id": "111783",
-      "location": "Luxembourg (Kirchberg)",
-      "published": "2026-10-22T10:00:00.000Z",
-      "deadline": "2026-11-12T22:59:00Z",
-      "deadline_text": "Thursday 12th November 2026",
-      "url": "https://erecruitment.eib.org/psc/hr/EIBJOBS/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&focus=Applicant&SiteId=1&JobOpeningId=111783&PostingSeq=1",
-      "summary": "The European Investment Fund (EIF) is seeking to recruit for its Risk Office (RO) – Model Validation Unit at its headquarters in Luxembourg, a (Senior) Risk Officer *. This is a full-time position at grade 5/4 for which the EIF offers a permanent contract . *Internal benchmark: (Senior) Officer Panel interviews via videoconference are anticipated for November/December 2026 Purpose Part of the EIB Group, the mission of the European Investment Fund (EIF) is to improve access to finance for SMEs and small mid-caps in Europe. We do this by supporting emerging and established fund managers with equity investments and by designing debt financing instruments that share the risk taken by financial institutions when they lend to or invest in small businesses. We bring this support closer to entrepreneurs through our extensive network of partners and financial intermediaries in all EU Member States and associated countries. Operating network The Model Validation Unit undertakes the validation of EIF models and administrates the model risk management framework under the umbrella of the EIB Group model risk management policy. The Unit cooperates with model stakeholders across all services with Risk Office, Investment Office and the Finance & Strategy Office being the primary partners alongside the EIB model risk and validation teams. The Model Validation Unit is independent of other risk functions reporting directly to the EIF CRO. Responsibilities At a level commensurate with your experience and seniority, you will: Validate EIF-owned models, prepare validation reports, and monitor the implementation of recommendations and remediation actions. Maintain, develop, and implement model risk policies, standards, guidelines, and procedures to ensure a robust model risk management framework. Organise model risk governance committees, coordinate meetings, and follow up on agreed action items. Prepare and present model risk reports to senior management and other key stakeholders. Advise and train EIF stakeholders on model risk management principles, policies, and best practices. Qualifications University degree, preferably at postgraduate level, in Financial Engineering, Computer Science, Data Science, Mathematics, Statistics, Engineering, or related fields. At least 3 (three) years of post-graduation (after having obtained your initial university diploma) relevant professional experience at the same level of responsibility on assignments related to model risk, validation, de"
-    },
     {
       "title": "Associate Water Sector Specialist - based in Luxembourg",
       "entity": "EIB (European Investment Bank)",
