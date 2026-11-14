@@ -1,14 +1,14 @@
 {
   "job": "nspa",
-  "fetched_at": "2026-11-13T05:10:18+00:00",
+  "fetched_at": "2026-11-14T05:10:16+00:00",
   "source": "https://nspa-nato.career.emply.com/vacancies",
   "sections_found": "discovered",
   "counts": {
-    "open": 26,
+    "open": 27,
     "internal": 0,
     "closed": 91
   },
-  "open_count": 20,
+  "open_count": 21,
   "open": [
     {
       "section": "open",
@@ -429,6 +429,27 @@
       "publication_type": "Current publication",
       "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/bde1571b-a5ab-4d05-b295-5b35403cfebb/content",
       "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION (See link to the full job description in the blue box)\n- University degree, equivalent education or relevant professional experience. \n- Not less than five years of thorough combined experience in aircraft maintenance and logistics of aerospace technical/maintenance systems in a sizeable civilian or military organisation. \n- Experience and familiarity with aspects of requirements capture and specification of aircraft systems, preferably Uncrewed Air Vehicle (UAV). \n- Experience in complex multi-disciplined projects in a large multi-national contract environment. \n- Ability to multi-task, manage time and work effectively under pressure while producing high-quality products under short-notice deadlines. \n- Ability to develop resourceful and effective solutions with knowledge of information systems at end-user level with experience in using personal computers and software packages. \n- Ability to develop resourceful and effective solutions to problems (including personnel), focus on team performance goals and track metrics to measure performance improvements. \n- Knowledge of NSPA contract administration, Logistics Principles, Supply Techniques and Procedures. \n- Thorough knowledge in aircraft maintenance and logistics. \n- Knowledge and experience with US FMS processes. \n- Not less than five years of experience in military or civilian aircraft programmes, aircraft systems and/or associated equipment, on single-e"
+    },
+    {
+      "section": "open",
+      "title": "LT011: MRTT Executive Assistant",
+      "location": "Luxembourg",
+      "deadline": "2026-12-10T22:59:00Z",
+      "deadline_text": "2026-12-10T22:59:00.000Z",
+      "published": "2026-11-13T08:18:11.614944Z",
+      "url": "https://nspa-nato.career.emply.com/ad/lt011-mrtt-executive-assistant/h6kwc0",
+      "id": "0d740ecd-fb10-4d6a-b6b9-8cf930c117ed",
+      "ref": "LT011",
+      "ref_no": "2026_00683",
+      "grade": "NATO grade 12:B5",
+      "category": "Administrative Support",
+      "duty_location": "Luxembourg - Capellen",
+      "status": "Receiving applications until deadline",
+      "who_can_apply": "NATO Civilian Staff and external candidates who are nationals of a NATO member country are invited to apply.",
+      "min_education": "Full secondary school",
+      "publication_type": "Current publication",
+      "job_description_pdf": "https://nspa-nato.career.emply.com/api/integration/v2/files/f5aa630a-7b66-48c5-8143-72c666dab444/content",
+      "summary": "Post No [job.position_number]/ Ref. No [job.ref._no.]\nJOB DESCRIPTION (See link to the full job description in the blue box)\n- Higher vocational training in a relevant discipline and 3 years' post-related experience. Acceptable alternatives: secondary education and 5 years' post-related experience, or an equivalent education combined with an appropriate amount of relevant, professional experience.\n- Experience as a project analyst and administration in a project management office normally acquired as a Junior Technician after five to seven years in the Agency or in a similar organisation.\n- Excellent organisational skills.\n- Good ability to analyse work requirements and set priorities in relation to the various tasking.\n- Ability to develop resourceful and effective solutions to problems (including personnel), focus on team performance goals and track metrics to measure performance improvements.\n- Ability to work independently, be self-motivated and to organise work under stress and tight deadlines.\n- Developed sense of human relations and ability to deal with personnel with tact and understanding.\n- Ability and willingness to work in a multi-functional organisation.\n- Sound digital literacy with experience in using office automation systems and software applications, e.g. Microsoft Office Suite (Word, Excel, and PowerPoint).\nWHAT DO WE OFFER?\n- Multicultural environment\n- Initial three year contract with competitive monthly tax-free salary (subject to Article 19 of the Ottaw"
     }
   ],
   "other": [
