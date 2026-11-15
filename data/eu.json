@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-14T05:10:06+00:00",
+  "fetched_at": "2026-11-15T05:10:06+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,14 +13,14 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 116
+      "count": 117
     },
     "eu_now": {
       "ok": true,
-      "count": 109,
+      "count": 116,
       "upcoming": 2,
       "cast": 20,
-      "temporary": 87
+      "temporary": 94
     }
   },
   "open_count": 150,
@@ -283,6 +283,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Administrative Assistant - Missions correspondent and ex-ante controller",
+      "institution": "European Commission",
+      "grade": "FG III",
+      "contract_type": "Contract staff",
+      "location": "Luxembourg, Luxembourg",
+      "deadline": "2026-11-18T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-assistant-14_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "DORA JET Lead - overseers for the Joint Oversight of the CTPPs by the three ESAs",
       "institution": "European Banking Authority (EBA)",
       "grade": "AD 7",
@@ -291,17 +304,6 @@
       "deadline": "2026-11-18T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/dora-jet-lead-overseers-joint-oversight-ctpps-three-esas_en"
-    },
-    {
-      "source_site": "eu-now.com (links naar eu-careers.europa.eu)",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Administrative Assistant - Missions correspondent and ex-ante controller",
-      "institution": "European Commission",
-      "grade": "FG III",
-      "location": "Luxembourg, Luxembourg",
-      "deadline": "2026-11-18T22:59:00Z",
-      "url": "https://eu-careers.europa.eu/jobs/administrative-assistant-14_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
