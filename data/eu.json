@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-15T05:10:06+00:00",
+  "fetched_at": "2026-11-16T05:10:10+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -13,51 +13,25 @@
     },
     "eu_careers": {
       "ok": true,
-      "count": 117
+      "count": 115
     },
     "eu_now": {
       "ok": true,
-      "count": 116,
+      "count": 114,
       "upcoming": 2,
       "cast": 20,
-      "temporary": 94
+      "temporary": 92
     }
   },
-  "open_count": 150,
+  "open_count": 148,
   "luxembourg_count": 40,
   "section_counts": {
     "epso": 11,
-    "temporary": 117,
+    "temporary": 115,
     "cast": 20,
     "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Administrative Assistant - Assistant the Executive Director and Heads of Unit",
-      "institution": "Clean Hydrogen Partnership",
-      "grade": "FG III",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-15T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/administrative-assistant-5_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Administrative Assistant - with the Clean Hydrogen Joint Under (Grade AST3)",
-      "institution": "Clean Hydrogen Partnership",
-      "grade": "AST 3",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-15T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/administrative-assistant-6_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
