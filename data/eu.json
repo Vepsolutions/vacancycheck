@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-16T05:10:10+00:00",
+  "fetched_at": "2026-11-17T05:10:06+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -17,10 +17,10 @@
     },
     "eu_now": {
       "ok": true,
-      "count": 114,
+      "count": 109,
       "upcoming": 2,
       "cast": 20,
-      "temporary": 92
+      "temporary": 87
     }
   },
   "open_count": 148,
@@ -32,84 +32,6 @@
     "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Head of the Internal Audit Capability",
-      "institution": "European Union Agency for the Operational Management of Large-Scale IT Systems (eu-LISA)",
-      "grade": null,
-      "contract_type": "Temporary staff",
-      "location": "Tallinn, Estonia",
-      "deadline": "2026-11-16T10:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/head-internal-audit-capability_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Project officer - Deputy Head of Sector",
-      "institution": "European Commission",
-      "grade": "AD 5 - AD 7",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-16T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/project-officer-3_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Technical agent – document management and production",
-      "institution": "Council of the European Union",
-      "grade": "FG I",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-16T15:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/technical-agent-document-management-and-production_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Contract agent - Auxiliary contract staff member at the Library",
-      "institution": "Court of Justice of the European Union (CJEU)",
-      "grade": "FG II",
-      "contract_type": "Contract staff",
-      "location": "Luxembourg, Luxembourg",
-      "deadline": "2026-11-16T16:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/contract-agent_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Seconded national expert (SNE) - Seconded National Expert - Intelligence Analyst",
-      "institution": "European Border and Coast Guard Agency (FRONTEX)",
-      "grade": null,
-      "contract_type": "Seconded national experts",
-      "location": "Warsaw, Poland",
-      "deadline": "2026-11-16T22:59:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/seconded-national-expert-sne-10_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Research Support Officer",
-      "institution": "European Foundation for the Improvement of Living and Working Conditions (EUROFOUND)",
-      "grade": "FG IV",
-      "contract_type": "Contract staff",
-      "location": "Dublin, Ireland",
-      "deadline": "2026-11-16T23:55:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/research-support-officer_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -543,6 +465,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Security and Service Engineer",
+      "institution": "European Union Agency for the Space Programme (EUSPA)",
+      "grade": "AD 6",
+      "contract_type": "Temporary staff",
+      "location": "Prague, Czechia",
+      "deadline": "2026-11-23T10:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/security-and-service-engineer_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Internal Auditor",
       "institution": "Single Resolution Board (SRB)",
       "grade": "AD 6",
@@ -616,6 +551,19 @@
       "deadline": "2026-11-23T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/monitoring-and-evaluation-assistant_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Deputy Head of Sector",
+      "institution": "European Commission",
+      "grade": "AD 5 - AD 7",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-23T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-3_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1073,6 +1021,32 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "IT Service Officer",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Luxembourg, Luxembourg",
+      "deadline": "2026-11-27T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/it-service-officer-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Legal Officer - Assistant DPC",
+      "institution": "European Commission",
+      "grade": "AD 5 - AD 7",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-27T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/legal-officer-13_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Executive Assistant - Executive Assistant at the RDD",
       "institution": "Court of Justice of the European Union (CJEU)",
       "grade": "AST 1 - AST 3",
@@ -1120,6 +1094,19 @@
       "deadline": "2026-11-30T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/administrative-agent-25_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Information and communication officer",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-11-30T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/information-and-communication-officer_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1304,6 +1291,19 @@
       "url": "https://eu-careers.europa.eu/jobs/legal-expert_en"
     },
     {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Senior officer - Agency's budget and Financial Management Coordination",
+      "institution": "European Border and Coast Guard Agency (FRONTEX)",
+      "grade": "AD 9",
+      "contract_type": "Temporary staff",
+      "location": "Warsaw, Poland",
+      "deadline": "2026-12-07T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/senior-officer-agencys-budget-and-financial-management-coordination_en"
+    },
+    {
       "source_site": "selection.eu-careers.europa.eu",
       "type": "Vast (EPSO-examen)",
       "section": "epso",
@@ -1366,19 +1366,6 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
-      "title": "European Border and Coast Guard Officer - Member of the Team (FGIII)",
-      "institution": "European Border and Coast Guard Agency (FRONTEX)",
-      "grade": "FG III",
-      "contract_type": "Contract staff",
-      "location": "Warsaw, Poland",
-      "deadline": "2026-12-14T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/european-border-and-coast-guard-officer_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
       "title": "European Border and Coast Guard Officer - Member of the Team (AST4)",
       "institution": "European Border and Coast Guard Agency (FRONTEX)",
       "grade": "AST 4",
@@ -1387,6 +1374,19 @@
       "deadline": "2026-12-14T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/european-border-and-coast-guard-officer-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "European Border and Coast Guard Officer - Member of the Team (FGIII)",
+      "institution": "European Border and Coast Guard Agency (FRONTEX)",
+      "grade": "FG III",
+      "contract_type": "Contract staff",
+      "location": "Warsaw, Poland",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/european-border-and-coast-guard-officer_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
