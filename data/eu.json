@@ -1,6 +1,6 @@
 {
   "job": "eu",
-  "fetched_at": "2026-11-25T05:10:07+00:00",
+  "fetched_at": "2026-11-26T05:10:09+00:00",
   "sources": {
     "epso": "https://selection.eu-careers.europa.eu/en/open-competition-permanent-staff",
     "eu_careers": "https://eu-careers.europa.eu/jobs_en",
@@ -9,11 +9,11 @@
   "source_status": {
     "epso": {
       "ok": true,
-      "count": 11
+      "count": 3
     },
     "eu_careers": {
       "ok": true,
-      "count": 118
+      "count": 132
     },
     "eu_now": {
       "ok": true,
@@ -23,142 +23,15 @@
       "temporary": 86
     }
   },
-  "open_count": 151,
-  "luxembourg_count": 42,
+  "open_count": 157,
+  "luxembourg_count": 35,
   "section_counts": {
-    "epso": 11,
-    "temporary": 118,
+    "epso": 3,
+    "temporary": 132,
     "cast": 20,
     "upcoming": 2
   },
   "open": [
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Bulgarian-Language (BG) lawyer-linguists",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-11-25T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "German-Language (DE) lawyer-linguists",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-11-25T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Greek-Language (EL) lawyer-linguists",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-11-25T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Spanish-language (ES) lawyer-linguists",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-11-25T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Irish-Language (GA) lawyer-linguists",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-11-25T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Maltese-Language (MT) lawyer-linguists",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-11-25T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Dutch-language (NL) lawyer-linguists",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-11-25T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
-    },
-    {
-      "source_site": "selection.eu-careers.europa.eu",
-      "type": "Vast (EPSO-examen)",
-      "section": "epso",
-      "title": "Romanian-language (RO) lawyer-linguists",
-      "institution": "EU-instellingen (EPSO)",
-      "grade": "AD 7",
-      "location": "Luxembourg (Luxembourg)",
-      "deadline": "2026-11-25T11:00:00Z",
-      "url": "https://selection.eu-careers.europa.eu/en/apply-lawyer-linguists-competition-ad7"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Document Management Assistant",
-      "institution": "European External Action Service (EEAS)",
-      "grade": "FG III",
-      "contract_type": "Contract staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-25T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/document-management-assistant-0_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Secretary - To the Head of Unit and to the Unit",
-      "institution": "European Commission",
-      "grade": "AST-SC 1 - AST-SC 2",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-25T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/secretary-21_en"
-    },
-    {
-      "source_site": "eu-careers.europa.eu",
-      "type": "Tijdelijk/contractueel",
-      "section": "temporary",
-      "title": "Finance and Contracts Agents - Grants and Procurement",
-      "institution": "European Commission",
-      "grade": "AST-SC 1 - AST-SC 2",
-      "contract_type": "Temporary staff",
-      "location": "Brussels, Belgium",
-      "deadline": "2026-11-25T11:00:00Z",
-      "always_open": false,
-      "url": "https://eu-careers.europa.eu/jobs/finance-and-contracts-agents_en"
-    },
     {
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
@@ -995,6 +868,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Administrative Agent - Secretary to the Head of Unit",
+      "institution": "European Commission",
+      "grade": "FG II",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-12-04T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-agent-31_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Seconded national expert (SNE)",
       "institution": "European Border and Coast Guard Agency (FRONTEX)",
       "grade": null,
@@ -1083,6 +969,45 @@
       "url": "https://eu-careers.europa.eu/jobs/linguist-agent-0_en"
     },
     {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Administrative Assistant",
+      "institution": "European Commission",
+      "grade": "AST 1 - AST 3",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-12-08T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/administrative-assistant-20_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Information Resources Manager",
+      "institution": "European Commission",
+      "grade": "AST 1 - AST 3",
+      "contract_type": "Temporary staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-12-08T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/information-resources-manager_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Translator",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Luxembourg, Luxembourg",
+      "deadline": "2026-12-08T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/translator-1_en"
+    },
+    {
       "source_site": "selection.eu-careers.europa.eu",
       "type": "Vast (EPSO-examen)",
       "section": "epso",
@@ -1119,6 +1044,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Policy Officer",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Brussels, Belgium",
+      "deadline": "2026-12-09T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/policy-officer-20_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "Administrative Support Agent - Technical operator at the printshop",
       "institution": "European Committee of the Regions (CoR)",
       "grade": "FG I",
@@ -1140,6 +1078,19 @@
       "deadline": "2026-12-10T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/secretary-25_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Agent - Technical - EURL ECVAM in vitro methods facility",
+      "institution": "European Commission",
+      "grade": "FG II",
+      "contract_type": "Contract staff",
+      "location": "Ispra, Italy",
+      "deadline": "2026-12-10T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/agent_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1210,6 +1161,19 @@
       "source_site": "eu-careers.europa.eu",
       "type": "Tijdelijk/contractueel",
       "section": "temporary",
+      "title": "Seconded national expert (SNE) - Capability Seconded National Expert",
+      "institution": "European Border and Coast Guard Agency (FRONTEX)",
+      "grade": null,
+      "contract_type": "Seconded national experts",
+      "location": "Warsaw, Poland",
+      "deadline": "2026-12-11T22:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/seconded-national-expert-sne-11_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
       "title": "European Border and Coast Guard Officer - Member of the Team (FGIII)",
       "institution": "European Border and Coast Guard Agency (FRONTEX)",
       "grade": "FG III",
@@ -1231,6 +1195,110 @@
       "deadline": "2026-12-14T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/european-border-and-coast-guard-officer-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research Project - ASTI",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Ispra, Italy",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-6_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research MICRO-CLEANERs",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Ispra, Italy",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-7_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research Project - CLIMAQ",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Ispra, Italy",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-5_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research Project - WAVE",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Ispra, Italy",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-8_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research Project - ATOMs",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Ispra, Italy",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-10_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research Project - EQUALS",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Seville, Spain",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-11_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research Project GEO-SCAI",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Seville, Spain",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-12_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research Project - MOSAIC",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Seville, Spain",
+      "deadline": "2026-12-14T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-13_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1335,6 +1403,19 @@
       "deadline": "2026-12-18T11:00:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/director-0_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Senior Policy Expert",
+      "institution": "European Banking Authority (EBA)",
+      "grade": "AD 7 - AD 8",
+      "contract_type": "Temporary staff",
+      "location": "Paris, France",
+      "deadline": "2026-12-23T22:59:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/senior-policy-expert_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
@@ -1472,7 +1553,7 @@
       "section": "temporary",
       "title": "Assistant - Financial and Accounting",
       "institution": "SESAR 3 Joint Undertaking",
-      "grade": "AST 4",
+      "grade": "AST 3 - AST 5",
       "contract_type": "Temporary staff",
       "location": "Brussels, Belgium",
       "deadline": "2027-01-11T13:00:00Z",
@@ -1517,6 +1598,19 @@
       "deadline": "2027-01-12T22:59:00Z",
       "always_open": false,
       "url": "https://eu-careers.europa.eu/jobs/project-officer-contracted-services_en"
+    },
+    {
+      "source_site": "eu-careers.europa.eu",
+      "type": "Tijdelijk/contractueel",
+      "section": "temporary",
+      "title": "Project officer - Scientist - Exploratory Research Project - CAPTURE",
+      "institution": "European Commission",
+      "grade": "FG IV",
+      "contract_type": "Contract staff",
+      "location": "Ispra, Italy",
+      "deadline": "2027-01-16T11:00:00Z",
+      "always_open": false,
+      "url": "https://eu-careers.europa.eu/jobs/project-officer-9_en"
     },
     {
       "source_site": "eu-careers.europa.eu",
